@@ -39,6 +39,7 @@ Hair Clips are a basic hair tool that generates clamping force to hold hair tigh
 
 
 
+
 ## Decide
 
 
