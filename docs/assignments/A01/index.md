@@ -33,6 +33,9 @@ Lara demonstrates her reasoning throughout the portfolio by explaning the decisi
 **Professional tone:**
 Lara's portfolio uses languge and organization appropiate for presenting engineering work by using technical terminology such as equilibrum, internal forces, factor of safety, shear stress, and more. 
 
+**Analysis of Design: Hair Clip** 
+
+Hair Clips are a basic hair tool that generates clamping force to hold hair tightly together. 
 
 
 
