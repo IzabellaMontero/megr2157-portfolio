@@ -36,7 +36,7 @@ Lara's portfolio uses languge and organization appropiate for presenting enginee
 **Analysis of Design: Hair Clip** 
 
 Hair Clips are a basic hair tool that generates clamping force to hold hair tightly together.
-document.querySelector("#dev_pack_form_camera_required").value = 'false'; 
+![Pink hair clip](./Pink Hair Clip.png)
 
 
 
