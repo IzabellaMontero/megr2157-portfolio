@@ -45,6 +45,10 @@ T is the restoring torque produced by the spring, k is the torsional spring cons
 
 The torsion spring is assumed to act linearly through the normal operating range of the hair clip. The restoring torque is proportional to the angular displacement of the spring. 
 
+![Screenshot 2026-08-24 at 9.27.54 AM](Screenshot%202026-08-24%20at%209.27.54%20AM.png)
+
+The two curved clip bodies form opposing jaws that rotate about the hinge. Their curviness creates an enclosed girpping region that allows material (hair) to fit between the jaws while the clip is closed. Multiple long teeth extend from the edges of each jaw and interlock with the teeth on the opposite side. 
+
 ## Decide
 
 
