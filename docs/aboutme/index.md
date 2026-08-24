@@ -1,4 +1,5 @@
 #About Me
+
 Hi! My name is Izabella Montero. 
 
 Before transferring to UNC Charlotte, I attended the College of the Sequoias, where I earned my Associate of Science degree and studies Automotive Technology. I now am a Mechanical Engineering student at UNC Charlotte concentrating in Motorsports. My automotive background gave me hands on experience an helped me develop my interest in understanding how mechanical systems operate, how components interact, and how engineering decisions affect the performance of a system. I chose Mechanical engineering because I enjoy hands on work, problem solving, and learning how things work. One aspect of mechanical engineering that particularly interest me is the wide range of industries in which mechanical engineers can work. My primary interest are automotive engineering motorsports, manufacturing, and mechanical design, while I also have an interest in aerpspace engineering. I am especially interested in developing my skills in CAD, design, manufacturing, and the analysis of mechanical systems. 
