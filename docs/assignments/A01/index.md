@@ -41,6 +41,10 @@ The primary mechanical behavior of the clip of governed by the torsion spring re
 
 ![Screenshot 2026-08-24 at 9.33.03 AM](Screenshot%202026-08-24%20at%209.33.03%20AM.png)
 
+T is the restoring torque produced by the spring, k is the torsional spring constant and Thetha is the angular displacement fo the spring from its resting postion. 
+
+The torsion spring is assumed to act linearly through the normal operating range of the hair clip. The restoring torque is proportional to the angular displacement of the spring. 
+
 ## Decide
 
 
