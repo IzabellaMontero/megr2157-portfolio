@@ -70,8 +70,10 @@ One visible design decision is the use of long curved opposing jaws with multipl
 **Homepage Identity**
 My homepage is designed to give visitors a clear understanding of what this engineering portfolio contains and how to navigate it. It introduces the portfolio as a collection of engineering design projects completed throughout the course. Including calulations design decisions CAD models, analysis, and final results. Each asignment will be clear and labeled so that the reader can quickly locate a specific project. 
 
+**Intentional Customization**
 I intentionally customized the section labels of my portfolio by including both the assignment number an a short label of each project. Instead of using only labels such as A2 or A3, the navigation identifies the subject of each assignment, such as A5: Bracket Design". This changs improves navigability because visitors can identify the contents of a page before opening it. The default alone does not provide enough information for a reader unfamiliar with the course to determine what each page contains. 
 
+**Document Standard**
 Every assignment in this portfolio will clearly documnet the objective, design process, and calulations, engineering reasoning, and final result with enough deatil that another engineering student or professional could understand an reproduce the work without needing additional explanation. 
 
 ## Communicate
