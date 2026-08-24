@@ -49,6 +49,22 @@ The torsion spring is assumed to act linearly through the normal operating range
 
 The two curved clip bodies form opposing jaws that rotate about the hinge. Their curviness creates an enclosed girpping region that allows material (hair) to fit between the jaws while the clip is closed. Multiple long teeth extend from the edges of each jaw and interlock with the teeth on the opposite side. 
 
+![Screenshot 2026-08-24 at 9.28.21 AM](Screenshot%202026-08-24%20at%209.28.21%20AM.png)
+
+The spring consists of a coiled wire positioned around the hinge axis with two extended arms. When the handles are squeezed the jaws rotate apart. The coiled geometry allows the spring to store eleastic energy during this rotation. 
+
+The pin passes through aligned holes in both bodies and center of the spring. It establishes a fixed rotational axis while allowing the two jaws to rotate relative to one another.
+
+The patent used for this analysis is U.S Design Patent D923,245 S, titled Hiar clip. The inventor is Kaicheng Liu. It was granted on June 22, 2021
+
+One alternative is a Barrette. A barrette performs the same primary function of securing hair, but it typically uses a ridig clasp or spring loaed locking mechanism rather than two rotating jaws and a torsion spring. 
+
+A secon alternative is a snao hair clip. It also secured hair but it relies on the elastic deformation of curved metal that snaps between open and closed positions instead of using a hinged jaw mechanism. 
+
+One visible design decision is the use of long curved opposing jaws with multiple evenly spaced teeth. This geometry was chosen to increase the size of the gripping region while providing several contact points along the hair. The curved shape allows the clip to contain a larger volume of material. 
+
+
+
 ## Decide
 
 
