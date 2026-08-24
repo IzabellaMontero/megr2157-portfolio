@@ -35,8 +35,11 @@ Lara's portfolio uses languge and organization appropiate for presenting enginee
 
 **Analysis of Design: Hair Clip** 
 
-Hair Clips are a basic hair tool that generates clamping force to hold hair tightly together.
-![Pink hair clip](./Pink Hair Clip.png)
+The primary function of the claw hair clip is to generate and maintain a clamping force between two opposing jaws. When a squeezing force is applied to the handles, the two halves rotate about the hinge and open the jaws. The motion loads the torsion spring at the hinge. When the squeezing force is removed, the spring produces a restoring torque that rotates the jaws closed. 
+
+The primary mechanical behavior of the clip of governed by the torsion spring relationship 
+
+
 
 
 
