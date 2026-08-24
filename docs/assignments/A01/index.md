@@ -1,7 +1,7 @@
 # A1 – Build Your Professional Portfolio
 
 ## Objective
-The objective to this assignment is to identify engineering problems. It focuses on analyzing, making justified decisions, and communicating engineering logic. The assignment focuses on the prepera[...]
+The objective to this assignment is to identify engineering problems. It focuses on analyzing, making justified decisions, and communicating engineering logic. The assignment focuses on the preparation of developing professional engineering vocabulary. 
 
 ## Analyze
 **Portfolio 1 - Abigail De Paz Hernandez** 
