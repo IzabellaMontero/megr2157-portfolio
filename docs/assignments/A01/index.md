@@ -31,7 +31,7 @@ Lara provides enough information for another engineering student to reproduce th
 Lara demonstrates her reasoning throughout the portfolio by explaning the decisions that led to the final design. She states that she chose a symmetrical truss geometry becuase it reduced the numb[...]
 
 **Professional tone:**
-Lara's portfolio uses languge and organization appropiate for presenting engineering work by using technical terminology such as equilibrum, internal forces, factor of safety, shear stress, and mo[...]
+Lara's portfolio uses language and organization appropriate for presenting engineering work by using technical terminology such as equilibrium, internal forces, factor of safety, shear stress, and mo[...]
 
 **Analysis of Design: Hair Clip** 
 
@@ -41,25 +41,25 @@ The primary mechanical behavior of the clip of governed by the torsion spring re
 
 ![Screenshot 2026-08-24 at 9.33.03 AM](Screenshot%202026-08-24%20at%209.33.03%20AM.png)
 
-T is the restoring torque produced by the spring, k is the torsional spring constant and Thetha is the angular displacement fo the spring from its resting postion. 
+T is the restoring torque produced by the spring, k is the torsional spring constant and Theta is the angular displacement for the spring from its resting position. 
 
 The torsion spring is assumed to act linearly through the normal operating range of the hair clip. The restoring torque is proportional to the angular displacement of the spring. 
 
 ![Screenshot 2026-08-24 at 9.27.54 AM](Screenshot%202026-08-24%20at%209.27.54%20AM.png)
 
-The two curved clip bodies form opposing jaws that rotate about the hinge. Their curviness creates an enclosed girpping region that allows material (hair) to fit between the jaws while the clip is closed. Multiple long teeth extend from the edges of each jaw and interlock with the teeth on the opposite side. 
+The two curved clip bodies form opposing jaws that rotate about the hinge. Their curviness creates an enclosed gripping region that allows material (hair) to fit between the jaws while the clip is closed. Multiple long teeth extend from the edges of each jaw and interlock with the teeth on the opposite side. 
 
 ![Screenshot 2026-08-24 at 9.28.21 AM](Screenshot%202026-08-24%20at%209.28.21%20AM.png)
 
-The spring consists of a coiled wire positioned around the hinge axis with two extended arms. When the handles are squeezed the jaws rotate apart. The coiled geometry allows the spring to store eleastic energy during this rotation. 
+The spring consists of a coiled wire positioned around the hinge axis with two extended arms. When the handles are squeezed the jaws rotate apart. The coiled geometry allows the spring to store elastic energy during this rotation. 
 
 The pin passes through aligned holes in both bodies and center of the spring. It establishes a fixed rotational axis while allowing the two jaws to rotate relative to one another.
 
 The patent used for this analysis is U.S Design Patent D923,245 S, titled Hiar clip. The inventor is Kaicheng Liu. It was granted on June 22, 2021
 
-One alternative is a Barrette. A barrette performs the same primary function of securing hair, but it typically uses a ridig clasp or spring loaed locking mechanism rather than two rotating jaws and a torsion spring. 
+One alternative is a Barrette. A barrette performs the same primary function of securing hair, but it typically uses a rigid clasp or spring loaded locking mechanism rather than two rotating jaws and a torsion spring. 
 
-A secon alternative is a snao hair clip. It also secured hair but it relies on the elastic deformation of curved metal that snaps between open and closed positions instead of using a hinged jaw mechanism. 
+A second alternative is a snap hair clip. It also secured hair, but it relies on the elastic deformation of curved metal that snaps between open and closed positions instead of using a hinged jaw mechanism. 
 
 One visible design decision is the use of long curved opposing jaws with multiple evenly spaced teeth. This geometry was chosen to increase the size of the gripping region while providing several contact points along the hair. The curved shape allows the clip to contain a larger volume of material. 
 
@@ -67,6 +67,8 @@ One visible design decision is the use of long curved opposing jaws with multipl
 
 ## Decide
 
+**Homepage Identity**
+My homepage is designed to give visitors a clear understanding of what this engineering portfolio contains and how to navigate it. It introduces the portfolio as a collection of engineering design projects completed throughout the course. Including calulations design decisions CAD models, analysis, and final results. Each asignment will be clear and labeled so that the reader can quickly locate a specific project. 
 
 ## Communicate
 
