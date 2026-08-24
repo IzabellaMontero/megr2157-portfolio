@@ -80,5 +80,5 @@ I intentionally customized the section labels of my portfolio by including both 
 Every assignment in this portfolio will clearly documnet the objective, design process, and calulations, engineering reasoning, and final result with enough deatil that another engineering student or professional could understand an reproduce the work without needing additional explanation. 
 
 ## Communicate
-hello 
+.
 
