@@ -1,2 +1,4 @@
 #About Me
-This is how to edit
+Hi! My name is Izabella Montero. 
+
+This is my second year at UNC Charlotte. I transferred from a community college called, "College of the Sequoias". I got my Associates in Science. Majored in Automotive Technology. Now I major in Mechanical Engineering with the concentration of Motorsports. I do have an interest in Aerospace engineering as well. I chose Mechanical engineering because I love working hands on and enjoy learning/understanding how things work. Mechanical engineering has a vast of opportunitys in many different feilds. I think that is why I chose Mechanical engineering as my feild of study. The industry offers many diverse fields that personel may chose to concentrate in or work in. The degree gives you the skills to succeed in majority of feilds to work hard an succeed wherever you are willing to put the effort in. I am most thrilled about learning the Automotive/manufacturing design aspect to it. 
