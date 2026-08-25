@@ -7,3 +7,7 @@ Before transferring to UNC Charlotte, I attended the College of the Sequoias, wh
 As I continue my education, I want to become an engineer who can combine practical, hands on knowledge with engineering analysis and design. My previous automotive experience has allowed me to understand mechanical system from a practical perspective, while my engineering education is teaching me how analyze those systems mathematically and make design decisions based on engineering principles. I was to continue strengthening both side of my experience. 
 
 Ultimately, I am working toward becoming a mechanical engineer capable of taking a design from an initial idea through analysis, modeling, manufacturing and testing. I am excited to apply these skills to automotive and motorsports applications, where performance, reliability, manufacturing, and continuous improvement are important parts of the engineering process.  
+
+To me, defending an engineering decision means being able to clearly explain why I chose one solution over the other. I need to be able to provide evidence to support that choice. I should be able to use calulations, testing, or other engineering principles to show how I got my soulution. I understand the basics but I still need learning on how to compare solutions and throughly support my engineering evidence. I hope throughout this course I can improve my skills and become more confident in explaining and supporting my ideas. 
+
+ I spend about 6 hours total on this assignment throughout the course of a few days. 
