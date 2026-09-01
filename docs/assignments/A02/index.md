@@ -5,6 +5,7 @@
 For this assignment, I was tasked with creating a truss that fits the constraints below. 
 
 ![Truss design screenshot](Screenshot 2026-09-01 at 10.44.23 AM.png) 
+Point A is a pin while point B is a roller. The length of a is, a=.4m. The height of b is, b=.3m. I was given the choice to chose a number between 20-30 for P. I chose P=24kN. 
 
 ## Objective
 
