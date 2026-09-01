@@ -1,5 +1,9 @@
 # A2 – Truss Stress Analysis
 
+# Constraints 
+
+For this assignment, I was tasked with creating a truss that fits the constraints below. 
+
 ## Objective
 
 
