@@ -4,6 +4,8 @@
 
 For this assignment, I was tasked with creating a truss that fits the constraints below. 
 
+![Truss design screenshot](Screenshot 2026-09-01 at 10.44.23 AM.png) 
+
 ## Objective
 
 
