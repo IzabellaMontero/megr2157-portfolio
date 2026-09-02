@@ -16,6 +16,10 @@ The lengths of members CD, BE, EF, and FA equal .4. Members EC and FD have a len
 
 I drew free body diagrams for all 6 joints to be able to visualize how the forces act on one another. 
 
+![Truss design screenshot](Screenshot 2026-09-01 at 11.46.55 PM.png)
+
+The next step in this design process was to calculate all the external forces acting on the truss. Point B is a roller point so there is a reaction on the Y direction. Point A is pin support so there is a reaction in the Y and x direction. 
+
 
 
 
