@@ -10,7 +10,7 @@ Point A is a pin while point B is a roller. The length of a is, a=.4m. The heigh
 
 The design process started by assigning geometry to the structure. I decided to go with a simple design and add 2 more connecting points to maximize structural support. Point E an point F. 
 
-![A02 Screenshot](../assignments/A02/Screenshot%202026-09-01%20at%2011.23.43%20PM.png)
+![Truss design screenshot](Screenshot 2026-09-01 at 11.23.43 PM.png)
 
 The lengths of members CD, BE, EF, and FA equal .4. Members EC and FD have a length equal to .3. To determine the diagonal member lengths, which includes, BC, AD, CF, I used pythagorean theorem. L is equal to the square root of x^2 + y^2. I found that the length is equal to .50m. 
 
