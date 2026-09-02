@@ -23,6 +23,7 @@ The next step in this design process was to calculate all the external forces ac
 
 ![Truss design screenshot](Screenshot 2026-09-01 at 11.50.25 PM.png)
 
+After I found all the internal forces, identified the member with the greates internal force. Using that member, I then found an equation to find the cross sectional area. It is used to ensure that the structure can safley support the calculated internal forces withouth yielding. From the joints of anaylsis, member CF experienced the alrgest internal force of 26.67 kn in compression. This force was used as the controlling load of the design. A factor of saftey of 3.5 was applied to the yeild strength of the selecte A500 structural steel, and the minimum required cross sectional area was calulated using the allowable normal stess equation. 
 
 
 
