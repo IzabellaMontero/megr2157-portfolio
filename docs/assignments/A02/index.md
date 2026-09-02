@@ -30,6 +30,9 @@ After I found all the internal forces, identified the member with the greates in
 
 ASTM A500 Grade C structural steel was slecte for the truss design. A yeild strength of 345 MPa was used based on published AISC meterial properties for rectuangular A500 Grade C HSS. Using the maximum calculated member force of 26.67 kN and the required factor of saftey of 3.5, the minimum cross-sectional area was calculated to be 270.8 mm^2. 
 
+![Truss Design Screenshot](designTime/Screenshot%202026-09-02%20at%201.00.03%20PM.png)
+
+The approximate weight of the truss was determined using the total length of all truss members, the minium required cross-sectinoal area, and the density of strucuarl steel. The lengths of all members were added to obtain a total member length of 3.7m and a steel density of 7850 kg/m^3 was used. Using the calulated cross sectiional area of 270.6mm^2, the truss has an approximate mass of 7.86kg, corresponding to a weight of approximately 77.1 N. 
 
 
 ## Objective
