@@ -37,7 +37,7 @@ The approximate weight of the truss was determined using the total length of all
 
 ## Pin Structure 
 
-To find the cross sectional area of the connecting pins I first started with the knowns and all unknowns. The connecting pins must be designed to safely transfer forces between the members of the truss without failing in shear. The pins are made of hardened tool steel and are designed as signle shear connections. Meaning that each pin has one shear plane resisting the applied force. It has a yeild shear strength of 170 ksi and a density of 0.278 lb/in^3. A factor of saftey of 4 will be applied to the given shear yeild strength to provide additional protectin against failure. The pin experiencing the largest reaction force will be used to determine the minimum required cross sectional area. The main unknown is the minimum required cross sectional area of the pins, which will be determined using th elargest cross sectional area of a pin. Once the area is calulated, it can be use to determine an appropriate diameter for the pins. 
+To find the cross sectional area of the connecting pins I first started with the knowns and all unknowns. The connecting pins must be designed to safely transfer forces between the members of the truss without failing in shear. The pins are made of hardened tool steel and are designed as signle shear connections. Meaning that each pin has one shear plane resisting the applied force. It has a yeild shear strength of 170 ksi and a density of 0.278 lb/in^3. A factor of safety of 4 will be applied to the given shear yeild strength to provide additional protectin against failure. The pin experiencing the largest reaction force will be used to determine the minimum required cross sectional area. The main unknown is the minimum required cross sectional area of the pins, which will be determined using the largest cross sectional area of a pin. Once the area is calulated, it can be use to determine an appropriate diameter for the pins. 
 
 Critical Pin Free Body Diagram: The critical pin was identified using the largest internal force obtained from the truss analysis. Member CF carries the largest magnitude of force at 26.67 kN in compression, so the pin connection associated with this member was selected as the controlling case. Since the connection is designed in a single shear, the pin resists the 26.67 kN load across one shear plane, which equal and opposite forces acting on the pin to maintain equilibrium. 
 
@@ -46,33 +46,39 @@ Critical Pin Free Body Diagram: The critical pin was identified using the larges
 
 ![Truss Design](Screenshot%202026-09-02%20at%2010.57.23%20PM.png) 
 
-The minimum cross sectional area of the pin was determined by using average shear stress equation. Becuase the pin is designed for a single shear, only one cross sectional area resists the applied shear force. A factor of saftey is inclued by reducing the allowable shear stress bellow the materials yeild shear strength. 
-- Vmax = maximun shear force on the critical pin
-- FS = factor of saftey
-- Ty = yeild strength of the pin material
+The minimum cross sectional area of the pin was determined by using average shear stress equation. Because the pin is designed for a single shear, only one cross sectional area resists the applied shear force. A factor of safety is include by reducing the allowable shear stress bellow the materials yield shear strength. 
+- Vmax = maximum shear force on the critical pin
+- FS = factor of safety
+- Ty = yield strength of the pin material
 - Amin = minimum required pin cross sectional area.
 
 The minimum required pin area was calculated by substituting the maximum pin shear force, factor of safety, and the yield shear strength of the hardened tool steel into the symbolic equation. The maximum force was converted from kilonewtons to pounds force so that the units were consistent with the material strength given in 0.141 in^2. 
 
 ![Truss Design](Screenshot%202026-09-02%20at%2011.08.15%20PM.png) 
 
-Next I have to approximate combined weight of the pins. Since the pin length was not specified in the design requirements, I selected a 1.00 inch pin length. The calculated minimum pin diameter is approximately 0.424 inches, so a 1.00 inch length provides a length to diamter ratio of approximately 1/0.424 = 2.36, giving sufficient length for the pin to pass through the connected members while allowing additional space for clearance and retention. 
+Next I have to approximate combined weight of the pins. Since the pin length was not specified in the design requirements, I selected a 1.00 inch pin length. The calculated minimum pin diameter is approximately 0.424 inches, so a 1.00 inch length provides a length to diameter ratio of approximately 1/0.424 = 2.36, giving sufficient length for the pin to pass through the connected members while allowing additional space for clearance and retention. 
 
-All six truss joints use indentical pins, so the volume of one pin was calulated and multiplied by six to deterine the total pin volume. I then used the density of hardened tool steel, 0.278 lb/in^3, to determine the combined weight of the pins. 
+All six truss joints use identical pins, so the volume of one pin was calculated and multiplied by six to determine the total pin volume. I then used the density of hardened tool steel, 0.278 lb/in^3, to determine the combined weight of the pins. 
 
 ![Truss Design](Screenshot%202026-09-02%20at%2011.33.24%20PM.png)
 
 Therefore, using six identical pins with an assumed length of 1.00 in, the approximate combined weight of the connecting pins is 0.24lb. 
 
 ## CAD
-I utilized Creo to model my truss. The truss geometry was modeled in Creo using the dimensions established during the analytical design process. The members were designed with a cross section of 0.030m x 0.010m, giving each member a cross sectional area of 0.000300 m^2 which is greater than the calulated minimum required area of 0.0002706 m^2. The two dimensional truss geometry was first created using the required a = 0.4m and b = 0.3m dimensions, and the member profiles were then extruded to 0.01o m to produce the three dimesional truss. This approach allows the truss to remain in a single CAD part while mainting the required member dimensions and structural geometry. 
+I utilized Creo to model my truss. The truss geometry was modeled in Creo using the dimensions established during the analytical design process. The members were designed with a cross section of 0.030m x 0.010m, giving each member a cross sectional area of 0.000300 m^2 which is greater than the calculated minimum required area of 0.0002706 m^2. The two dimensional truss geometry was first created using the required a = 0.4m and b = 0.3m dimensions, and the member profiles were then extruded to 0.01o m to produce the three dimensional truss. This approach allows the truss to remain in a single CAD part while maintaing the required member dimensions and structural geometry. 
 
 ![Truss Design](Screenshot%202026-09-03%20at%201.57.33%20AM.png)
 
-The truss was constructed in Creo as a single solid part using a series of sketches and extrusion features. The initial geometry established the overall dimensions of the truss, and material was then removed from selected region to create the open spaces between the structural members. Each member was designed with a width of 0.030m and thickness of 0.010m, mainting the cross sectional area selected from the analytical calulations. 
+The truss was constructed in Creo as a single solid part using a series of sketches and extrusion features. The initial geometry established the overall dimensions of the truss, and material was then removed from selected region to create the open spaces between the structural members. Each member was designed with a width of 0.030m and thickness of 0.010m, maintaing the cross sectional area selected from the analytical calculations. 
 
 ![Truss Design](Screenshot%202026-09-03%20at%202.04.56%20AM.png)
 
+![Truss Design](Screenshot%202026-09-03%20at%202.15.29%20AM.png)
+
+The final truss geometry was created in Cro using the dimensions determined from the inital truss design and hand calulation. Material was reomved from the solid profile to form horizontal, vertical, and diagonal members while keeping all members connected as a single part. 
+
+## Lesson Learned 
+Through this project, I learned how structural analysis and material properties are used together to design a truss that can safely support an applied load. I learned how to determine the internal forces within each truss member and identify whether each member is subjected to tension or compression. These forces were then used to calculate the required cross-sectional areas while considering the material's yield strength and the required factor of safety. I also learned that increasing the dimensions of a structural member can improve its load-carrying capability but also increases the overall weight of the structure, demonstrating the importance of weight optimization in engineering design. Additionally, I learned how pin dimensions can be selected based on the forces transferred through the joints and how the final calculated dimensions can be incorporated into a three-dimensional CAD model. Overall, this project demonstrated how structural analysis, material selection, safety factors, geometric constraints, and CAD modeling must work together to produce a structurally stable and weight-efficient truss.
 ## Objective
 
 
