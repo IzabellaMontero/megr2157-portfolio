@@ -44,6 +44,16 @@ Critical Pin Free Body Diagram: The critical pin was identified using the larges
 ![Free Body Diagram](Screenshot%202026-09-02%20at%2010.47.43%20PM.png) 
 
 
+![Truss Design](Screenshot%202026-09-02%20at%2010.57.23%20PM.png) 
+
+The minimum cross sectional area of the pin was determined by using average shear stress equation. Becuase the pin is designed for a single shear, only one cross sectional area resists the applied shear force. A factor of saftey is inclued by reducing the allowable shear stress bellow the materials yeild shear strength. 
+- Vmax = maximun shear force on the critical pin
+- FS = factor of saftey
+- Ty = yeild strength of the pin material
+- Amin = minimum required pin cross sectional area.
+
+The minimum required pin area was calulated by substituting the maximun pin shear force, factor of saftey, and the yeild shear strength of the hardened tool steel into the symbolic equation. The maximum force was converted from kilonewtons to pounds force so that the units were consistend with the material strength given in 0.141 in^2. 
+
 
 
 ## Objective
