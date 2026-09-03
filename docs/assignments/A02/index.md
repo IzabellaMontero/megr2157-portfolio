@@ -52,8 +52,11 @@ The minimum cross sectional area of the pin was determined by using average shea
 - Ty = yeild strength of the pin material
 - Amin = minimum required pin cross sectional area.
 
-The minimum required pin area was calulated by substituting the maximun pin shear force, factor of saftey, and the yeild shear strength of the hardened tool steel into the symbolic equation. The maximum force was converted from kilonewtons to pounds force so that the units were consistend with the material strength given in 0.141 in^2. 
+The minimum required pin area was calculated by substituting the maximum pin shear force, factor of safety, and the yield shear strength of the hardened tool steel into the symbolic equation. The maximum force was converted from kilonewtons to pounds force so that the units were consistent with the material strength given in 0.141 in^2. 
 
+![Truss Design](Screenshot%202026-09-02%20at%2011.08.15%20PM.png) 
+
+Next I have to approximate combined weight of the pins. Since the pin length was not specified in the design requirements, a resonable pin length of 1.00 is selected for the weight estimation. All six truss joints use indentical pins, so the volume of one pin was calulated and multiplied by six to deterine the total pin volume. I then used the density of hardened tool steel, 0.278 lb/in^3, to determine the combined weight of the pins. 
 
 
 ## Objective
