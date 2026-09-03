@@ -30,7 +30,6 @@ After I found all the internal forces, identified the member with the greates in
 
 ASTM A500 Grade C structural steel was slecte for the truss design. A yeild strength of 345 MPa was used based on published AISC meterial properties for rectuangular A500 Grade C HSS. Using the maximum calculated member force of 26.67 kN and the required factor of saftey of 3.5, the minimum cross-sectional area was calculated to be 270.8 mm^2. 
 
-![Truss Design Screenshot](designTime/Screenshot%202026-09-02%20at%201.00.03%20PM.png)
 
 ![Truss Design Screenshot](Screenshot%202026-09-02%20at%201.00.03%20PM.png)
 
