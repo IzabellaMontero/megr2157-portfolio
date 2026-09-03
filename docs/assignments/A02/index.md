@@ -64,6 +64,11 @@ All six truss joints use indentical pins, so the volume of one pin was calulated
 
 Therefore, using six identical pins with an assumed length of 1.00 in, the approximate combined weight of the connecting pins is 0.24lb. 
 
+## CAD
+I utilized Creo to model my truss. The truss geometry was modeled in Creo using the dimensions established during the analytical design process. The members were designed with a cross section of 0.030m x 0.010m, giving each member a cross sectional area of 0.000300 m^2 which is greater than the calulated minimum required area of 0.0002706 m^2. The two dimensional truss geometry was first created using the required a = 0.4m and b = 0.3m dimensions, and the member profiles were then extruded to 0.01o m to produce the three dimesional truss. This approach allows the truss to remain in a single CAD part while mainting the required member dimensions and structural geometry. 
+
+![Truss Design](Screenshot%202026-09-03%20at%201.57.33%20AM.png)
+
 ## Objective
 
 
