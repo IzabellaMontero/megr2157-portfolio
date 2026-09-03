@@ -69,6 +69,10 @@ I utilized Creo to model my truss. The truss geometry was modeled in Creo using 
 
 ![Truss Design](Screenshot%202026-09-03%20at%201.57.33%20AM.png)
 
+The truss was constructed in Creo as a single solid part using a series of sketches and extrusion features. The initial geometry established the overall dimensions of the truss, and material was then removed from selected region to create the open spaces between the structural members. Each member was designed with a width of 0.030m and thickness of 0.010m, mainting the cross sectional area selected from the analytical calulations. 
+
+![Truss Design](Screenshot%202026-09-03%20at%202.04.56%20AM.png)
+
 ## Objective
 
 
