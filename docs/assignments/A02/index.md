@@ -32,6 +32,8 @@ ASTM A500 Grade C structural steel was slecte for the truss design. A yeild stre
 
 ![Truss Design Screenshot](designTime/Screenshot%202026-09-02%20at%201.00.03%20PM.png)
 
+![Truss Design Screenshot](Screenshot%202026-09-02%20at%201.00.03%20PM.png)
+
 The approximate weight of the truss was determined using the total length of all truss members, the minium required cross-sectinoal area, and the density of strucuarl steel. The lengths of all members were added to obtain a total member length of 3.7m and a steel density of 7850 kg/m^3 was used. Using the calulated cross sectiional area of 270.6mm^2, the truss has an approximate mass of 7.86kg, corresponding to a weight of approximately 77.1 N. 
 
 
