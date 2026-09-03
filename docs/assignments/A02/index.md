@@ -77,6 +77,12 @@ The truss was constructed in Creo as a single solid part using a series of sketc
 
 The final truss geometry was created in Cro using the dimensions determined from the inital truss design and hand calulation. Material was reomved from the solid profile to form horizontal, vertical, and diagonal members while keeping all members connected as a single part. 
 
+![Pin CAD Model](Screenshot%202026-09-03%20at%202.32.31%20AM.png)
+
+![Pin CAD Model](Screenshot%202026-09-03%20at%202.32.38%20AM.png)
+
+The connecting pins were modeled separately in Creo as cylindrical components. A diameter of 0.0127 m (0.500in) was selected, which is greater than the calculated minimum diameter of approximately 0.424in. A pin length of 0.0254m (1.00in) was used as the previosly established design assumption, providing a consistent pin geometry for all six joints. 
+
 ## Lesson Learned 
 Through this project, I learned how structural analysis and material properties are used together to design a truss that can safely support an applied load. I learned how to determine the internal forces within each truss member and identify whether each member is subjected to tension or compression. These forces were then used to calculate the required cross-sectional areas while considering the material's yield strength and the required factor of safety. I also learned that increasing the dimensions of a structural member can improve its load-carrying capability but also increases the overall weight of the structure, demonstrating the importance of weight optimization in engineering design. Additionally, I learned how pin dimensions can be selected based on the forces transferred through the joints and how the final calculated dimensions can be incorporated into a three-dimensional CAD model. Overall, this project demonstrated how structural analysis, material selection, safety factors, geometric constraints, and CAD modeling must work together to produce a structurally stable and weight-efficient truss.
 ## Objective
