@@ -110,14 +110,8 @@ The expected failure mode for the connecting pins is shear failure. The project 
 For this project, the hardened tool-steel pins have a given yield shear strength of 170 ksi. A safety factor of 4 was required, so the pins were designed to operate well below their yield shear strength. From the previous design calculations, the minimum required pin diameter was approximately 0.424 inches. A larger practical diameter of 0.500 inches was selected for the CAD model. Because the selected pin is larger than the calculated minimum diameter, it provides additional shear area and therefore reduces the shear stress within the pin.
 
 One design modification that could further reduce the likelihood of pin shear failure would be to increase the diameter of the pin. A larger pin provides a greater cross-sectional area to resist the applied shear force. Another possible modification would be to use a double-shear connection instead of a single-shear connection because the force would be distributed across two shear planes. However, the requirements for this particular project specify a single-shear connection, so increasing the pin diameter would be the more appropriate modification while maintaining the required design configuration.
-## Objective
 
 
-## Analyze
 
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
 
