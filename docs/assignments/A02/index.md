@@ -56,8 +56,13 @@ The minimum required pin area was calculated by substituting the maximum pin she
 
 ![Truss Design](Screenshot%202026-09-02%20at%2011.08.15%20PM.png) 
 
-Next I have to approximate combined weight of the pins. Since the pin length was not specified in the design requirements, a resonable pin length of 1.00 is selected for the weight estimation. All six truss joints use indentical pins, so the volume of one pin was calulated and multiplied by six to deterine the total pin volume. I then used the density of hardened tool steel, 0.278 lb/in^3, to determine the combined weight of the pins. 
+Next I have to approximate combined weight of the pins. Since the pin length was not specified in the design requirements, I selected a 1.00 inch pin length. The calculated minimum pin diameter is approximately 0.424 inches, so a 1.00 inch length provides a length to diamter ratio of approximately 1/0.424 = 2.36, giving sufficient length for the pin to pass through the connected members while allowing additional space for clearance and retention. 
 
+All six truss joints use indentical pins, so the volume of one pin was calulated and multiplied by six to deterine the total pin volume. I then used the density of hardened tool steel, 0.278 lb/in^3, to determine the combined weight of the pins. 
+
+![Truss Design](Screenshot%202026-09-02%20at%2011.33.24%20PM.png)
+
+Therefore, using six identical pins with an assumed length of 1.00 in, the approximate combined weight of the connecting pins is 0.24lb. 
 
 ## Objective
 
