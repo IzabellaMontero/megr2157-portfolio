@@ -39,7 +39,11 @@ The approximate weight of the truss was determined using the total length of all
 
 To find the cross sectional area of the connecting pins I first started with the knowns and all unknowns. The connecting pins must be designed to safely transfer forces between the members of the truss without failing in shear. The pins are made of hardened tool steel and are designed as signle shear connections. Meaning that each pin has one shear plane resisting the applied force. It has a yeild shear strength of 170 ksi and a density of 0.278 lb/in^3. A factor of saftey of 4 will be applied to the given shear yeild strength to provide additional protectin against failure. The pin experiencing the largest reaction force will be used to determine the minimum required cross sectional area. The main unknown is the minimum required cross sectional area of the pins, which will be determined using th elargest cross sectional area of a pin. Once the area is calulated, it can be use to determine an appropriate diameter for the pins. 
 
-Critical Pin Free Body Diagram: The critical pin was identified using the largest internal force obtained from the truss analysis. Member CF carries the larget magnitude of force at 26.67 kN in compression, so the pin connection associated with this member was selected as the controlling case. Since the connection is designed in a single shear, the pin resists the 26.67 kN load across one shear plane, which equal and opposite forces acting on the pin to maintain equillibrim. 
+Critical Pin Free Body Diagram: The critical pin was identified using the largest internal force obtained from the truss analysis. Member CF carries the largest magnitude of force at 26.67 kN in compression, so the pin connection associated with this member was selected as the controlling case. Since the connection is designed in a single shear, the pin resists the 26.67 kN load across one shear plane, which equal and opposite forces acting on the pin to maintain equilibrium. 
+
+![Free Body Diagram](Screenshot%202026-09-02%20at%2010.47.43%20PM.png) 
+
+
 
 
 ## Objective
