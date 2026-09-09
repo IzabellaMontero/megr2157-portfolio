@@ -45,6 +45,10 @@ The material selected was Aluminum 6061, which has a Youngs Modulus of approxima
 
 One circular end of the bar was fixed so that it could not move. A tensile force of 400 lbf was applied to the opposite circular face along the axis of the bar.  
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2011.39.41%20AM.png)
+
+
+
 
 
 
