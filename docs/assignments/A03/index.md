@@ -41,6 +41,10 @@ After completing the parametric CAD model, a finite element analysis was perform
 
 The material selected was Aluminum 6061, which has a Youngs Modulus of approximately 10,000,000 psi, matching the value used in the parametric calculation.  
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2011.35.26%20AM.png)
+
+One circular end of the bar was fixed so that it could not move. A tensile force of 400 lbf was applied to the opposite circular face along the axis of the bar.  
+
 
 
 
