@@ -19,6 +19,10 @@ With the initial dimensions and calculated length, I moved to Creo to create the
 
 I first started by making sure I was using the correct units. Inch Pound Seconds (IPS). The IPS unit was selected because the design requirements were provided in pounds force, inches and pounds per square inch. Using a consistent unit system allowed the parametric calculation to be performed without additional unit conversions.  
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%209.26.50%20AM.png)
+
+I then started the drawing by extruding a circle with a diameter of 0.500. I did not select a length and just left it as is. 
+
 
 
 ## Analyze
