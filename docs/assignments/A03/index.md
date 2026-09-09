@@ -33,6 +33,16 @@ The cross-sectional area was determined from the diameter and was calculated as 
 
 The calculated length and diameter parameters were linked to the actual dimensions of the CAD model. This made the model parametric, meaning that changing values such as the load, modulus of elasticity, maximum deflection, or diameter can automatically update the calculated length of the bar. 
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%209.40.13%20AM.png)
+
+**Finite Element Analysis (FEA)**
+
+After completing the parametric CAD model, a finite element analysis was performed using Creo Live Simulation. 
+
+The material selected was Aluminum 6061, which has a Youngs Modulus of approximately 10,000,000 psi, matching the value used in the parametric calculation.  
+
+
+
 
 
 ## Analyze
