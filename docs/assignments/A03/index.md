@@ -27,6 +27,13 @@ I then started the drawing by extruding a circle with a diameter of 0.500. I did
 
 I then created parameters for the applied force, maximum deflection, modulus of elasticity, diameter, cross sectional area, and length. The values were a 400 lbf load, 0.009 maximum deflection, 10,000,000 psi modulus of elasticity, and 0.50 in diameter. 
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%209.35.24%20AM.png)
+
+The cross-sectional area was determined from the diameter and was calculated as 0.19635 in^2. I then used the direct tension elongation equation as a parametric relation in Creo. Instead of manually entering the final bar length, Creo calulated the length based on the assigned parameters. The resulting bar length was approximately 44.18 in. 
+
+The calculated length and diameter parameters were linked to the actual dimensions of the CAD model. This made the model parametric, meaning that changing values such as the load, modulus of elasticity, maximum deflection, or diameter can automatically update the calculated length of the bar. 
+
+
 
 ## Analyze
 
