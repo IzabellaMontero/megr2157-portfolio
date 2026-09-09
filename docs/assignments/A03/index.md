@@ -23,6 +23,9 @@ I first started by making sure I was using the correct units. Inch Pound Seconds
 
 I then started the drawing by extruding a circle with a diameter of 0.500. I did not select a length and just left it as is. 
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%209.30.35%20AM.png)
+
+I then created parameters for the applied force, maximum deflection, modulus of elasticity, diameter, cross sectional area, and length. The values were a 400 lbf load, 0.009 maximum deflection, 10,000,000 psi modulus of elasticity, and 0.50 in diameter. 
 
 
 ## Analyze
