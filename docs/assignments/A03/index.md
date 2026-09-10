@@ -56,13 +56,17 @@ The deformation map showed a maximum deformation of approximately 0.00913. While
 
 The Maximum Von Mises stress from the FEA was approximately 2162.5 psi. The yield strength provided for aluminum was 40 ksi. Since 2.16 ksi is less that 40 ksi the bar remains below the material yield strength under the applied load. 
 
-(Safety of factor Image)
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2010.06.47%20PM.png)
+
 The factor of safety is used to determine how safley a component can carry an applied load before the material begins to yield. It compares the materials yield strength to the maximum stress actually experienced by the component. For this design the yield strength of aluminum was given, 40 ksi. From the FEA the maximum VON Mises stress in the bar was approximately 2.16 ksi. The factor of saftey is calculated using the strength of aluminum divided by the maximum Von Mises stres sin bar. 
 
-After calculating this design has a factor of saftey of about 18.5, the maximum stress produced by the 400 lbf is only about 5.4 percent of the aluminums specfied yield strength. 
+After calculating, this design has a factor of saftey of about 18.5, the maximum stress produced by the 400 lbf is only about 5.4 percent of the aluminums specfied yield strength. 
 
-This means there is a large margin between the stress procuded by the applied load and the stress required to beign yeiling the material. Therfore the bar is safe agaisnt yeilding for the specfifed 400 lbf load. 
+This means there is a large margin between the stress procuded by the applied load and the stress required to beign yielding the material. Therfore the bar is safe agaisnt yielding for the specfifed 400 lbf load. 
 
+**Design Reflection**
+
+The axial deflection from my parametric hand calculation was 0.00900 in, while the FEA produced a maximum deflection of approximately 0.00913 in. The percent difference between the two results was approximately 1.5%, showing that the hand calculation and FEA were in very close agreement. This close agreement was expected because the bar has a uniform cross section and is subjected to a simple axial load, with no major geometric features causing stress concentrations. The small difference between the results could be caused by the FEA mesh, numerical approximations, or rounding of the model parameters. For this simple bar, I would trust the hand calculation because the geometry and loading closely match the assumptions of the direct-tension equation. However, the FEA provides additional verification that the analytical calculation is accurate and would become more useful for more complicated geometries and loading conditions.
 
 
 
