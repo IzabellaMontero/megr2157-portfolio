@@ -52,12 +52,12 @@ One circular end of the bar was fixed so that it could not move. A tensile force
 
 The deformation map showed a maximum deformation of approximately 0.00913. While the design target was .009 in. Therefore the FEA result was very close to the analytical value, showing that the parametric calculation and finite element model produced similar results. 
 
-(VON MiSSis IMage) 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2010.04.10%20PM.png)
 
 The Maximum Von Mises stress from the FEA was approximately 2162.5 psi. The yield strength provided for aluminum was 40 ksi. Since 2.16 ksi is less that 40 ksi the bar remains below the material yield strength under the applied load. 
 
 (Safety of factor Image)
-The factor of safety is used to determine how Safley a component can carry an applied load before the material begins to yield. It compares the materials yield strength to the maximum stress actually experienced by the component. For this design the yield strength of aluminum was given, 40 ksi. From the FEA the maximum VON Mises stress in the bar was approximately 2.16 ksi. The factor of saftey is calculated using the strength of aluminum divided by the maximum Von Mises stres sin bar. 
+The factor of safety is used to determine how safley a component can carry an applied load before the material begins to yield. It compares the materials yield strength to the maximum stress actually experienced by the component. For this design the yield strength of aluminum was given, 40 ksi. From the FEA the maximum VON Mises stress in the bar was approximately 2.16 ksi. The factor of saftey is calculated using the strength of aluminum divided by the maximum Von Mises stres sin bar. 
 
 After calculating this design has a factor of saftey of about 18.5, the maximum stress produced by the 400 lbf is only about 5.4 percent of the aluminums specfied yield strength. 
 
