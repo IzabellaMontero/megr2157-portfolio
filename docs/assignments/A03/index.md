@@ -106,11 +106,5 @@ Thickness: If the thickness were increased, I predict that the calculated length
 
 
 
-## Analyze
 
-
-## Decide
-
-
-## Communicate
 
