@@ -97,6 +97,11 @@ Height: If the cross-sectional height were increased, I predict that the calcula
 
 Thickness: If the thickness were increased, I predict that the calculated length would increase. A thicker cross section provides more area to resist the axial load, so the bar can be longer without exceeding the allowable deflection.
 
+**CAD Link** 
+
+[Download Creo Parametric FEA File](parametric_fea.prt.4)
+
+
 
 
 
