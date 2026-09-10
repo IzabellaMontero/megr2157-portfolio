@@ -69,6 +69,34 @@ This means there is a large margin between the stress procuded by the applied lo
 The axial deflection from my parametric hand calculation was 0.00900 in, while the FEA produced a maximum deflection of approximately 0.00913 in. The percent difference between the two results was approximately 1.5%, showing that the hand calculation and FEA were in very close agreement. This close agreement was expected because the bar has a uniform cross section and is subjected to a simple axial load, with no major geometric features causing stress concentrations. The small difference between the results could be caused by the FEA mesh, numerical approximations, or rounding of the model parameters. For this simple bar, I would trust the hand calculation because the geometry and loading closely match the assumptions of the direct-tension equation. However, the FEA provides additional verification that the analytical calculation is accurate and would become more useful for more complicated geometries and loading conditions.
 
 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2010.18.15%20PM.png)
+
+The hand-calculated deflection and FEA deflection are essentially the same, with only about a 1.5% difference. This close agreement is expected because the bar has a uniform cross-section and is subjected to a simple axial load. There are no holes, notches, or other geometric features that would cause major stress concentrations. Because the geometry and loading are simple, the assumptions used in the direct-tension hand calculation closely represent the FEA model. Therefore, both methods produce very similar deflection results.
+
+For this design, I would trust the hand-calculated result slightly more because the bar has a simple uniform cross-section and is subjected to a direct axial load, which closely matches the assumptions of the direct-tension equation. The FEA result is still very useful because it verifies the hand calculation, and the small 1.5% difference between the two results shows that both methods are consistent.
+
+If a substantial pin hole were added to the bar, it would create a stress concentration around the edge of the hole. This happens because the hole removes material that would normally carry part of the load, forcing the stress to become concentrated around the opening. For a circular hole in a plate under tension, a stress concentration factor of approximately \(K_t=3\) can be used as an estimate. Using the nominal FEA stress of 2.16 ksi, the estimated peak stress is 6.48 ksi. This is still well below the aluminum yield strength of 40 ksi. The new factor of safety is 6.17. 
+
+The pin hole reduces the factor of safety from approximately 18.5 to 6.17 because of the increased stress around the hole. However, since the peak stress is still below the 40 ksi yield strength, the bar would still be expected to remain below yielding under the applied load. This shows why holes and other changes in geometry are important to consider because they can significantly increase local stresses.
+
+**Design Reflection** 
+
+Throughout this project, I learned how to use engineering calculations, parametric CAD modeling, and FEA together to design and analyze a component. I learned how parameters such as the applied load, Young’s Modulus, cross-sectional area, and maximum deflection can be used to automatically determine the dimensions of a CAD model. I also learned how to set up an FEA by assigning the correct material, applying constraints and loads, and interpreting deformation and Von Mises stress results.
+
+Some mistakes I made during the project included initially having difficulty assigning the correct material and units, selecting the correct direction for the applied force, and understanding how to display the FEA results. Correcting these mistakes helped me better understand how important units, material properties, loads, and boundary conditions are when creating an accurate simulation.
+
+Overall, this project helped me understand how hand calculations can be compared with computer simulations to verify an engineering design. The close agreement between my calculated and FEA deflections also gave me more confidence in both methods. The total time I spent completing the project from start to finish was approximately 6 and half hours. 
+
+**Modify Design Parameters**
+
+Load: I predict that increasing the applied load will decrease the calculated length of the bar. A larger force causes more axial deformation, so the bar must become shorter to maintain the same maximum deflection of 0.009 in.
+
+Diameter / Width: I predict that increasing the diameter of the bar will increase the calculated length. Increasing the diameter increases the cross-sectional area, making the bar stiffer and allowing it to be longer while maintaining the same maximum deflection.
+
+Height: If the cross-sectional height were increased, I predict that the calculated length would increase. Increasing the height increases the cross-sectional area and stiffness of the bar, allowing a greater length for the same load and maximum deflection.
+
+Thickness: If the thickness were increased, I predict that the calculated length would increase. A thicker cross section provides more area to resist the axial load, so the bar can be longer without exceeding the allowable deflection.
+
 
 
 
