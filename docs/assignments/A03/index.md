@@ -48,7 +48,7 @@ One circular end of the bar was fixed so that it could not move. A tensile force
 ![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2011.39.41%20AM.png)
 
 
-(Image upload) (deformation Map) 
+![Assignment 03 Screenshot](Screenshot%202026-09-09%20at%2010.01.43%20PM.png)
 
 The deformation map showed a maximum deformation of approximately 0.00913. While the design target was .009 in. Therefore the FEA result was very close to the analytical value, showing that the parametric calculation and finite element model produced similar results. 
 
