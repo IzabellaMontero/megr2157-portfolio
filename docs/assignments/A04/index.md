@@ -48,7 +48,9 @@ For a rectangular cross section, the area of moment of inertia is I = bh^3 / 12â
 
 The bending stress equation is 
 
-(Insert 2 images here, Images 2 and 3 ) 
+![Screenshot](Screenshot%202026-09-16%20at%205.49.56%20PM.png)
+
+![Screenshot](Screenshot%202026-09-16%20at%205.50.23%20PM.png)
 
 I first analyzed the bending stress to make sure the ABS material would not reach its yield strength. A safety of 3 was included in this analysis. I then analyzed the deflection of feature 1 to make sure the mount would not bend more than the allowed 0.30 mm at the free end. The rectangular beam geometry was used to relate the width and thickness of the mount to its resistance to bending. From these analyses, two minimum thickness requirements were developed: one based on preventing yielding and another based on limiting deflection. The final thickness of Feature 1 will be selected so that it satieties both requirements. 
 
