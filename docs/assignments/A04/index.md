@@ -30,7 +30,7 @@ Iv gathered everything I knew the value of and needed to find that was relevant 
 
 ![Screenshot](Screenshot%202026-09-16%20at%205.44.04%20PM.png)
 
-(Insert image of Apendix B ) 
+ ![Screenshot](Screenshot%202026-09-16%20at%205.46.04%20PM.png)
 
 Feature 1 is modeled as a cantilever beam with a fixed connection at feature 2. the 300 n force acting on the motor shaft produces an applied bending moment M = PL as shown in appendix B. The fixed end provides and equal and opposite reaction moment MA. The loading dimensions will remain symbolic until numerical design analysis.  
 
