@@ -56,7 +56,7 @@ I first analyzed the bending stress to make sure the ABS material would not reac
 
 The motor has an approximate diameter of 28 mm. A Feature 1 width and length of 40 mm were selected as an initial design to provide additional material around the motor and space for the mounting features. The thickness of Feature 1 will be determined using the stress and deflection calculations.
 
-( Enter calualtions of numerical cross sections, image 4 )
+![Screenshot](Screenshot%202026-09-16%20at%205.52.11%20PM.png) 
 
 Numerical Analysis Summary: Feature 1 was initially designed with a width and length of 40 mm based on the approximate 28 mm diameter of the motor. A 20 mm moment arm was assumed to simplify the analysis, as permitted by the assignment. ABS was selected as the material, and conservative values of 29.6 MPa for yield strength and 1.79 GPa for Young's modulus were used. With a 300 N applied force and safety factor of 3, the minimum thickness based on yield strength was calculated to be approximately 9.55 mm. The minimum thickness required to limit the free-end deflection to 0.30 mm was approximately 13.89 mm. Since the deflection requirement controls the design, the thickness was rounded up to 14 mm. Therefore, the initial dimensions selected for Feature 1 are 40 mm × 40 mm × 14 mm.
 
