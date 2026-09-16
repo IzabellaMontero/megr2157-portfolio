@@ -92,6 +92,9 @@ Symbolic Analysis: Feature 2 was modeled as a rectangular beam subjected to the 
 
 Numerical Analysis: Feature 2 was analyzed using ABS with a yield strength of 29.6 MPa and Young's modulus of 1.79 GPa. A 300 N load, safety factor of 3, 20 mm moment arm, 40 mm width, and 40 mm free-to-bend length were used for the initial design. The minimum thickness based on yield strength was calculated as 9.55 mm, while the minimum thickness based on the 0.30 mm deflection limit was 13.89 mm. Since the deflection requirement produced the larger value, a final thickness of 14 mm was selected for Feature 2.
 
+**Sketch**
+
+ (insert image 8) 
 
 
 
