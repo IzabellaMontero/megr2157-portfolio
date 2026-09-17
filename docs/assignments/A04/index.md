@@ -130,6 +130,16 @@ A multiview drawing of the completed motor mount was created in SOLIDWORKS. The 
 ![Screenshot](Screenshot%202026-09-16%20at%2011.51.21%20PM.png)
 
 
+The SOLIDWORKS part file for this project can be downloaded below:
+
+[Download A4.SLDPRT](A4.SLDPRT)
+
+The SOLIDWORKS drawing file for this project can be downloaded below:
+
+[Download A4.SLDDRW](A4.SLDDRW)
+
+
+
 
 
 
