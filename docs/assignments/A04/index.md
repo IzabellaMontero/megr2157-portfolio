@@ -117,5 +117,9 @@ Base Length: 40 mm
 Mount Width: 40 mm
 Shaft Hole Diameter: 7 mm
 
+![Screenshot](Screenshot%202026-09-16%20at%2011.16.26%20PM.png)
+
+Clearance holes were incorporated into the motor mount so that the motor shaft and mounting bolts can pass through the plate without interference. The center opening provides clearance for the motor shaft, while the motor mounting bolt holes were designed with the required 3.4 mm diameter clearance. The hole locations were positioned to match the motor mounting pattern.
+
 
 
