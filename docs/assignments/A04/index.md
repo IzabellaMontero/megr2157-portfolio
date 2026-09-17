@@ -91,7 +91,7 @@ Feature 2 FBD: Feature 2 is attached to rigid wall A using bolts. The wall and b
 
 Symbolic Analysis: Feature 2 was modeled as a rectangular beam subjected to the bending moment transferred from Feature 1. The beam bending equation was used to determine the minimum thickness required to prevent the ABS material from yielding while maintaining a safety factor of 3. A deflection analysis was also performed to determine the minimum thickness required to keep the deformation below 0.30 mm. The final Feature 2 thickness will be selected based on whichever requirement produces the larger minimum thickness
 
-(insert image 7) 
+![Screenshot](Screenshot%202026-09-16%20at%2010.51.01%20PM.png)
 
 Numerical Analysis: Feature 2 was analyzed using ABS with a yield strength of 29.6 MPa and Young's modulus of 1.79 GPa. A 300 N load, safety factor of 3, 20 mm moment arm, 40 mm width, and 40 mm free-to-bend length were used for the initial design. The minimum thickness based on yield strength was calculated as 9.55 mm, while the minimum thickness based on the 0.30 mm deflection limit was 13.89 mm. Since the deflection requirement produced the larger value, a final thickness of 14 mm was selected for Feature 2.
 
@@ -100,15 +100,4 @@ Numerical Analysis: Feature 2 was analyzed using ABS with a yield strength of 29
  (insert image 8) 
 
 
-
-**Feature 1** 
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
 
