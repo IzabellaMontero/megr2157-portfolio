@@ -97,7 +97,10 @@ Numerical Analysis: Feature 2 was analyzed using ABS with a yield strength of 29
 
 **Sketch**
 
- (insert image 8) 
+![Screenshot](Screenshot%202026-09-16%20at%2010.54.32%20PM.png)
 
+**CAD**
+
+The motor mount was modeled in SOLIDWORKS using the dimensions determined during the design analysis. The final design consists of a horizontal plate for mounting the motor and a vertical plate for attaching the mount to the rigid wall. ABS was selected as the material for the motor mount. The completed CAD model also includes mounting holes, a shaft clearance hole, and additional support features.
 
 
