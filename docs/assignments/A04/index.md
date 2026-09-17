@@ -127,6 +127,10 @@ Clearance holes were incorporated into the motor mount so that the motor shaft a
 
 A multiview drawing of the completed motor mount was created in SOLIDWORKS. The drawing includes the front, top, right-side, and isometric views arranged using third-angle projection. Hidden lines and center marks were added where appropriate following ASME drawing conventions. Important dimensions were included to show the overall size, plate thickness, shaft clearance hole, and bolt clearance holes. The finished drawing provides the information needed to understand the geometry and dimensions of the motor mount.
 
+![Screenshot](Screenshot%202026-09-16%20at%2011.51.21%20PM.png)
+
+
+
 
 
 
