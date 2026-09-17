@@ -87,7 +87,7 @@ Feature 2 Design: Feature 2 is the vertical portion of the motor mount that conn
 
 Feature 2 FBD: Feature 2 is attached to rigid wall A using bolts. The wall and bolted locations are treated as fixed supports, while the section of Feature 2 between the supports is allowed to bend. The loading from Feature 1 is transferred to Feature 2 as a bending moment. Using the assumed 20 mm moment arm and the 300 N applied force, the transferred bending moment is 6000 N·mm. This moment will be used to analyze the bending stress and deflection of Feature 2.
 
-(insert image 6) 
+![Screenshot](Screenshot%202026-09-16%20at%2010.49.13%20PM.png)
 
 Symbolic Analysis: Feature 2 was modeled as a rectangular beam subjected to the bending moment transferred from Feature 1. The beam bending equation was used to determine the minimum thickness required to prevent the ABS material from yielding while maintaining a safety factor of 3. A deflection analysis was also performed to determine the minimum thickness required to keep the deformation below 0.30 mm. The final Feature 2 thickness will be selected based on whichever requirement produces the larger minimum thickness
 
