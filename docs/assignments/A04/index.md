@@ -103,4 +103,19 @@ Numerical Analysis: Feature 2 was analyzed using ABS with a yield strength of 29
 
 The motor mount was modeled in SOLIDWORKS using the dimensions determined during the design analysis. The final design consists of a horizontal plate for mounting the motor and a vertical plate for attaching the mount to the rigid wall. ABS was selected as the material for the motor mount. The completed CAD model also includes mounting holes, a shaft clearance hole, and additional support features.
 
+Two triangular support gussets were added between the horizontal motor plate and the vertical wall plate. The gussets increase the stiffness of the mount and provide additional support at the connection between the two plates. This helps reduce bending and deflection when the motor applies a load to the mount.
+
+![Screenshot](Screenshot%202026-09-16%20at%2011.13.38%20PM.png)
+
+Parametric modeling was used so that important dimensions of the motor mount could be easily modified without completely rebuilding the model. Global variables and equations were created in SOLIDWORKS to control major dimensions. Examples include the mount thickness, wall height, base length, mount width, and shaft-hole diameter. By linking dimensions to these parameters, changing a global variable automatically updates the associated geometry.
+
+For example, some of the parameters used were:
+
+Mount Thickness: 14 mm
+Wall Height: 54 mm
+Base Length: 40 mm
+Mount Width: 40 mm
+Shaft Hole Diameter: 7 mm
+
+
 
