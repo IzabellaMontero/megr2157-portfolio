@@ -129,6 +129,10 @@ A multiview drawing of the completed motor mount was created in SOLIDWORKS. The 
 
 ![Screenshot](Screenshot%202026-09-16%20at%2011.51.21%20PM.png)
 
+**Lessons Learned**
+
+Through this project, I learned how engineering calculations and CAD modeling work together to create a functional motor mount. I gained experience designing a part in SOLIDWORKS, adding clearance holes and support gussets, and using dimensions to control the model. I also learned how gussets can increase stiffness and help reduce deflection. Finally, I learned how to create a multiview engineering drawing using front, top, right-side, and isometric views while applying proper dimensioning and drawing conventions.
+
 
 The SOLIDWORKS part file for this project can be downloaded below:
 
@@ -137,6 +141,10 @@ The SOLIDWORKS part file for this project can be downloaded below:
 The SOLIDWORKS drawing file for this project can be downloaded below:
 
 [Download A4.SLDDRW](A4.SLDDRW)
+
+I spent about 7 hours on the project. 
+
+
 
 
 
