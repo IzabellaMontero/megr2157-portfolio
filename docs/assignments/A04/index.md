@@ -83,7 +83,7 @@ Unknowns
 
 Feature 2 Design: Feature 2 is the vertical portion of the motor mount that connects the bracket to rigid wall A using bolts. ABS will continue to be used as the material for the mount. The feature will be analyzed for both bending stress and deflection under the 300 N applied load. A safety factor of 3 and a maximum allowable deflection of 0.30 mm will be used. The required cross-sectional dimensions of Feature 2 will be determined so that the mount does not yield or exceed the allowable deflection.
 
-( insert FBD image 5 ) 
+![Screenshot](Screenshot%202026-09-16%20at%2010.47.12%20PM.png)
 
 Feature 2 FBD: Feature 2 is attached to rigid wall A using bolts. The wall and bolted locations are treated as fixed supports, while the section of Feature 2 between the supports is allowed to bend. The loading from Feature 1 is transferred to Feature 2 as a bending moment. Using the assumed 20 mm moment arm and the 300 N applied force, the transferred bending moment is 6000 N·mm. This moment will be used to analyze the bending stress and deflection of Feature 2.
 
