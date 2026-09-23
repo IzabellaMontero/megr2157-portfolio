@@ -33,6 +33,17 @@ Feature B is the upright rectangular bar connecting the strap-support cylinder (
 
 Feature C
 
+Assumptions: Model C as a uniform beam with the load from B applied at its center, following Appendix D. Assume the end connections transfer the reactions shown on the FBD. As instructed, do not check failure from direct shear.
+
+known values. Feature C is the lower horizontal bar of the upper bracket. Following Appendix D, I modeled it as a beam supported at both ends, with Feature B connected at its center. Feature B transfers a 1200 downward force and a 1800 counterclockwise moment to C. I selected a trial distance of Lc=2.40 between supports.
+
+Unknowns. The unknowns are the reactions at C’s left and right supports, Rl and Rr, the minimum required vertical thickness Tc and the bending stress at the selected thickness
+
+Image 
+Since 8,000 < 9,000 psi, the trial cross section passes the Part 1 bending-stress calculation.
+
+
+
 
 
 
