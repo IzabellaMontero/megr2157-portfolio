@@ -64,6 +64,12 @@ Known values. Feature D transfers an upward force of PE = 150 lbf and a counterc
 Unknowns. The unknowns are the reaction force and moment at the T beam, and the minimum cross-section height required to keep E’s bending stress below the allowable value.
 
 Assumptions. For this trial calculation, I modeled E as a uniform rectangular beam, with D connected at its left end and a fixed T-beam restraint at its right end. I chose a trial distance e = 0.75in between those locations and a cross-section width WE = 1.50 in. These are design choices. I did not check failure due to direct shear, as instructed.
+
+![Project screenshot](Screenshot%202026-09-23%20at%2011.09.01%20PM.png)
+
+**Calculating Dimensions From Stiffness Analysis** 
+
+Known values: Feature A is a solid circular cantilever fixed to B at its right end. Its total length is L = 2.00in. The two strap legs apply a combined downward load of P = 1,200 lbf located, a = 1.50in from the fixed end. For ASTM A36 steel, use E = 29,000,000 psi. The maximum permitted deflection is Sallow = 0.005 in. 
  
 
  
