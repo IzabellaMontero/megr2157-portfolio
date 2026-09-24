@@ -75,6 +75,19 @@ Unknowns: The minimum diameter required for stiffness, dmin, and the deflection 
 
 Assumptions: Treat A as a uniform cantilever and represent the strap’s load by one downward force. Neglect shear deflection, as the assignment directs. Check deflection at the free left tip, where this model predicts the greatest displacement.
 
+![Project screenshot](Screenshot%202026-09-23%20at%2011.43.28%20PM.png)
+
+The stiffness calculation requires a minimum cylinder diameter of approximately 0.730 to keep Feature A’s free-tip deflection within 0.005in . The selected 1.30 in diameter gives a calculated deflection of 0.000498, so Feature A meets the Part 2 deflection limit under the stated cantilever assumptions.
+
+Feature B 
+
+Knowns: P = 1,200 lbf Lb = 1.25, E = 29,000,000 psi, and allowable axial deformation Sallow = 0.005in. 
+
+Unknowns: The minimum area required for stiffness and the deformation of the selected bar.
+
+Assumptions: B is a uniform, axially loaded bar. Its top connection is held in place, and shear deformation is neglected.
+
+
  
 
  
