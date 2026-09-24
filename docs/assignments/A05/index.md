@@ -97,6 +97,15 @@ Unknowns: the minimum thickness for stiffness and the deflection of the selected
 
 Assumptions. I modeled Feature C as a uniform, straight beam with a rectangular cross section. I assumed the two supports are 2.40 in apart and that Feature B applies a 1,200 downward force and a 1,800 moment at the center. I assumed the end connections provide the reactions found in Part 1, including the downward hold-down reaction at the right end. I used a constant elastic modulus of E = 29,000,000 assumed small elastic deflections, and neglected shear deflection as directed in the assignment.
 
+![Project screenshot](Screenshot%202026-09-23%20at%2011.58.20%20PM.png)
+
+Feature D 
+Knowns: PD = 150 lbf LD = 0.50 cross-section width w = 1.50 in , selected height 0.25 in, steel modulus E = 29,000,000, and deflection limit Sallow = 0.005 in
+
+Unknowns: The minimum height required for stiffness and the free-end deflection at the selected height.
+
+Assumptions: D is a straight, uniform rectangular cantilever. Its connection to E is fixed, the 150 lbf force acts at its free end, deflections are small and elastic, and shear deflection is negligible.
+
 
  
 
