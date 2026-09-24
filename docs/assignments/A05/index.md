@@ -26,6 +26,7 @@ Feature A is the cylindrical strap support, modeled as a cantilever fixed to Fea
 
 Feature B 
 
+![Project screenshot](Screenshot%202026-09-24%20at%2012.28.20%20AM.png)
 
 Assumptions: B has a uniform rectangular cross section; the load and moment from A are transferred into B; A36 steel remains below its allowable normal stress. 
 
