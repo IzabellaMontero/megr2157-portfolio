@@ -100,11 +100,22 @@ Assumptions. I modeled Feature C as a uniform, straight beam with a rectangular 
 ![Project screenshot](Screenshot%202026-09-23%20at%2011.58.20%20PM.png)
 
 Feature D 
+
 Knowns: PD = 150 lbf LD = 0.50 cross-section width w = 1.50 in , selected height 0.25 in, steel modulus E = 29,000,000, and deflection limit Sallow = 0.005 in
 
 Unknowns: The minimum height required for stiffness and the free-end deflection at the selected height.
 
 Assumptions: D is a straight, uniform rectangular cantilever. Its connection to E is fixed, the 150 lbf force acts at its free end, deflections are small and elastic, and shear deflection is negligible.
+
+![Project screenshot](Screenshot%202026-09-24%20at%2012.04.27%20AM.png)
+
+Feature E 
+
+Known values: Use ASTM A36 steel with E = 29,000,000 psi. From Feature D, the load on E is 150 lbf upward and a 75 lbf·in counterclockwise moment. Use the chosen length LE = 0.75 in, width bE = 0.75 in, and height 0.25 in. The allowed deflection for this feature is 0.005 in.
+
+Unknowns: The deflection of Feature E and the height needed to meet the deflection limit.
+
+Assumptions: Model E as a uniform rectangular cantilever fixed at the T beam. Treat the force and moment from D as loads at its free end. Assume small elastic deflections and neglect shear deflection, as the assignment directs.
 
 
  
