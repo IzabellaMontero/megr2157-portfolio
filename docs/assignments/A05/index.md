@@ -136,42 +136,10 @@ Assumption sensitivity: I selected ASTM A36 steel and used its strength and stif
 
 **Design the Dimension of link**
 
-Design assumptions. The link carries a centered axial tensile load of 1,200 lbf. I used the project safety factor of 4. For the stiffness check, I selected an allowable axial stretch of 0.005 in. The link is modeled using its smallest net area at a hole.
+I designed the link to connect the 1.30 in diameter cylinder of Feature A to the specified 1.00 in diameter shaft. I selected ASTM A36 steel to match the bracket and used the same assumed 1,200 lbf load and safety factor of 4. The proposed link is 0.50 in thick and 2.00 in wide, with hole centers 3.00 in apart and rounded ends 2.00 in across. Its overall length is 5.00 in. These are dimensions I selected for the design.
 
+I checked the narrowest cross section, which occurs at the larger hole for Feature A. Using a provisional maximum hole diameter of 1.302 in, the remaining area is \(0.50(2.00-1.302)=0.349\text{ in}^2\). ASTM A36 steel’s assumed 36,000 psi yield strength and the required safety factor of 4 give an allowable stress of 9,000 psi. The minimum area needed for the 1,200 lbf load is \(1,200/9,000=0.133\text{ in}^2\). The proposed net area is larger, and its calculated nominal tensile stress is 3,438 psi.
 
-I selected an H7/g6 clearance fit for the nominal 1.30-inch Feature A connection. The hole is specified H7 and the mating cylindrical surface is specified g6. This fit provides clearance so the link can be assembled and slide or rotate relative to Feature A. MISUMI’s fit selection chart places H7/g6 among the commonly used clearance fits; its tolerance tables provide the hole and shaft deviations by nominal size.
+I also checked axial deflection using the 3.00 in distance between hole centers. Conservatively treating that entire length as the narrowest \(0.349\text{ in}^2\) section gives a calculated stretch of 0.000356 in. This is below the 0.005 in deflection limit, so the proposed link dimensions meet the nominal axial strength and stiffness requirements under these assumptions.
 
-
-Manufacturing: I selected an H7/g6 running or sliding fit for the Feature A connection. I would machine and ream the link hole to its specified H7 limits, then finish the mating Feature A surface to its g6 limits and inspect both diameters. I used the hole-basis fit selection chart on page 1 and the hole and shaft tolerance tables on page 2 of MISUMI’s Fit Selection Basics document. 
-
-
- I selected an H7/p6 interference fit for a shaft manufactured to the specified 1.000-inch nominal p6 limits. This is intended for assembly with light pressure; the hole is made to H7 limits and the shaft to p6 limits. MISUMI’s fit chart identifies p6 as a press-fit shaft tolerance class.
-
- Manufacturing: I selected an H7/p6 fit for the 1-inch shaft connection to obtain a light press assembly. I would ream or bore the link hole to H7 limits, finish the shaft seat to p6 limits, inspect both parts, and press them together with the parts aligned. I used the hole-basis fit selection chart on page 1 and the corresponding tolerance tables on page 2 of MISUMI’s Fit Selection Basics document.
-
-Design limit to state: The press fit requires the 1-inch shaft to be manufactured or finished to the selected p6 limits. If the shaft is an existing, fixed-size part, its actual diameter must be measured before the hole limits and assembly pressure can be finalized.”
-
-I would drill and finish-ream or bore the hole to its H7 limits, turn and finish the shaft to its p6 limits, measure both parts, and align them in a press for assembly.
-
-Drawing dimensions to show: overall length 6.00 in; width 2.50 in; thickness 0.25 in; hole-center spacing 3.50 in; each hole center 1.25 in from the nearest end; Feature A hole Ø1.30 H7; and 1-inch shaft hole Ø1.00 H7. Label the mating shafts Ø1.30 g6 and Ø1.00 p6.
-
- 
-
- 
-
-
-
-
-
-
-## Objective
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
-
+The hole connecting to Feature A needs a running or sliding clearance fitso the link can move on the cylinder. The hole connecting to the 1.00 in shaft needs a light drive fit so it can be assembled with light pressure. I would drill both holes undersize and finish bore or ream them to their specified limits, then finish machine the mating cylindrical surfaces. I selected the RC running-fit family for Feature A and propose FN1 for the 1.00 in shaft.  
