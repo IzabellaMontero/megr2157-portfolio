@@ -120,9 +120,38 @@ Assumptions: Model E as a uniform rectangular cantilever fixed at the T beam. Tr
 
 ![Project screenshot](Screenshot%202026-09-24%20at%2012.12.32%20AM.png)
 
-Generate Multiview Sketches 
+**Generate Multiview Sketches**
 
 ![Project screenshot](Screenshot%202026-09-24%20at%2012.25.50%20AM.png)
+
+**Lessons Learned**
+
+Governing failure mode: For Feature A, stress required a minimum diameter of 1.268 in, while stiffness required 0.730 in. Stress governed by 0.538 in, so I selected a final diameter of 1.30 in.
+
+Error propagation: Feature A’s 1,200 lbf load and 1,800 lbf·in moment carried into the Feature B analysis. Checking those values before using them helped prevent an error in Feature A from changing Feature B’s result.
+
+Assumption sensitivity: I selected ASTM A36 steel and used its strength and stiffness to size the bracket. If the material were weaker or less stiff, Feature A could require a larger diameter.
+
+**Design the Dimension of link**
+
+Design assumptions. The link carries a centered axial tensile load of 1,200 lbf. I used the project safety factor of 4. For the stiffness check, I selected an allowable axial stretch of 0.005 in. The link is modeled using its smallest net area at a hole.
+
+
+I selected an H7/g6 clearance fit for the nominal 1.30-inch Feature A connection. The hole is specified H7 and the mating cylindrical surface is specified g6. This fit provides clearance so the link can be assembled and slide or rotate relative to Feature A. MISUMI’s fit selection chart places H7/g6 among the commonly used clearance fits; its tolerance tables provide the hole and shaft deviations by nominal size.
+
+
+Manufacturing: I selected an H7/g6 running or sliding fit for the Feature A connection. I would machine and ream the link hole to its specified H7 limits, then finish the mating Feature A surface to its g6 limits and inspect both diameters. I used the hole-basis fit selection chart on page 1 and the hole and shaft tolerance tables on page 2 of MISUMI’s Fit Selection Basics document. 
+
+
+ I selected an H7/p6 interference fit for a shaft manufactured to the specified 1.000-inch nominal p6 limits. This is intended for assembly with light pressure; the hole is made to H7 limits and the shaft to p6 limits. MISUMI’s fit chart identifies p6 as a press-fit shaft tolerance class.
+
+ Manufacturing: I selected an H7/p6 fit for the 1-inch shaft connection to obtain a light press assembly. I would ream or bore the link hole to H7 limits, finish the shaft seat to p6 limits, inspect both parts, and press them together with the parts aligned. I used the hole-basis fit selection chart on page 1 and the corresponding tolerance tables on page 2 of MISUMI’s Fit Selection Basics document.
+
+Design limit to state: The press fit requires the 1-inch shaft to be manufactured or finished to the selected p6 limits. If the shaft is an existing, fixed-size part, its actual diameter must be measured before the hole limits and assembly pressure can be finalized.”
+
+I would drill and finish-ream or bore the hole to its H7 limits, turn and finish the shaft to its p6 limits, measure both parts, and align them in a press for assembly.
+
+Drawing dimensions to show: overall length 6.00 in; width 2.50 in; thickness 0.25 in; hole-center spacing 3.50 in; each hole center 1.25 in from the nearest end; Feature A hole Ø1.30 H7; and 1-inch shaft hole Ø1.00 H7. Label the mating shafts Ø1.30 g6 and Ø1.00 p6.
 
  
 
