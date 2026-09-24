@@ -69,8 +69,11 @@ Assumptions. For this trial calculation, I modeled E as a uniform rectangular be
 
 **Calculating Dimensions From Stiffness Analysis** 
 
-Known values: Feature A is a solid circular cantilever fixed to B at its right end. Its total length is L = 2.00in. The two strap legs apply a combined downward load of P = 1,200 lbf located, a = 1.50in from the fixed end. For ASTM A36 steel, use E = 29,000,000 psi. The maximum permitted deflection is Sallow = 0.005 in. 
- 
+Known values: Feature A is a solid circular cantilever fixed to B at its right end. Its total length is L = 2.00in. The two strap legs apply a combined downward load of P = 1,200 lbf located, a = 1.50in from the fixed end. For ASTM A36 steel, use E = 29,000,000 psi. The maximum permitted deflection is Sallow = 0.005 in.
+
+Unknowns: The minimum diameter required for stiffness, dmin, and the deflection at our selected 1.30in diameter.
+
+Assumptions: Treat A as a uniform cantilever and represent the strap’s load by one downward force. Neglect shear deflection, as the assignment directs. Check deflection at the free left tip, where this model predicts the greatest displacement.
 
  
 
