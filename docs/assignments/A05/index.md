@@ -25,7 +25,7 @@ Assumptions
 Feature A is the cylindrical strap support, modeled as a cantilever fixed to Feature B. I chose a 2.00 in length and a total strap load of 1,200 lbf acting 1.50 in from the fixed connection. Using ASTM A36 steel and a safety factor of 4, the minimum diameter from bending stress is 1.268 in. The minimum diameter needed to limit free-tip deflection to 0.005 in is 0.730 in. Since bending stress requires the larger diameter, I selected 1.30 in. At this size, the calculated stress is 8,345 psi and the deflection is 0.000498 in, both within the required limits. The 1,200 lbf force and 1,800 lbf·in moment are carried forward to Feature B.
 
 Feature B 
-Insert iImage b 
+
 
 Assumptions: B has a uniform rectangular cross section; the load and moment from A are transferred into B; A36 steel remains below its allowable normal stress. 
 
