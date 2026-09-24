@@ -35,14 +35,27 @@ Feature C
 
 Assumptions: Model C as a uniform beam with the load from B applied at its center, following Appendix D. Assume the end connections transfer the reactions shown on the FBD. As instructed, do not check failure from direct shear.
 
-known values. Feature C is the lower horizontal bar of the upper bracket. Following Appendix D, I modeled it as a beam supported at both ends, with Feature B connected at its center. Feature B transfers a 1200 downward force and a 1800 counterclockwise moment to C. I selected a trial distance of Lc=2.40 between supports.
+known values: Feature C is the lower horizontal bar of the upper bracket. Following Appendix D, I modeled it as a beam supported at both ends, with Feature B connected at its center. Feature B transfers a 1200 downward force and a 1800 counterclockwise moment to C. I selected a trial distance of Lc=2.40 between supports.
 
-Unknowns. The unknowns are the reactions at C’s left and right supports, Rl and Rr, the minimum required vertical thickness Tc and the bending stress at the selected thickness
+Unknowns: The unknowns are the reactions at C’s left and right supports, Rl and Rr, the minimum required vertical thickness Tc and the bending stress at the selected thickness
 
-Image 
+![Project screenshot](Screenshot%202026-09-23%20at%2010.23.29%20PM.png)
+
 Since 8,000 < 9,000 psi, the trial cross section passes the Part 1 bending-stress calculation.
 
+Feature D - Stress analysis 
 
+Feature D connects the right end of Feature C to Feature E. For this analysis, I modeled D as a rectangular cantilever fixed where it joins E. From the Feature C analysis, C applies a 150 lbf upward force to D at its free end. This is a trial model that assumes the D–E connection can transfer both force and moment. 
+
+Known values. The applied force is Pd = 150lbf. I selected ASTM A36 steel with an assumed yield strength of Sy = 36,000 psi. For the required safety factor of N=4
+
+ I chose a trial distance of Ld = 0.50 in from the applied force to the fixed connection and a rectangular cross-section width of w = 1.50 in. 
+
+ Unknowns. The unknowns are the reaction force and moment at E, the minimum required cross-section height hmin and the bending stress at the selected height.
+
+ Assumptions. Feature D has a uniform rectangular cross section. Its connection to E acts as a fixed support, and the force from C acts at D’s free end. I used elementary beam bending to size D and, as directed by the assignment, did not check failure due to direct shear.
+
+ 
 
 
 
