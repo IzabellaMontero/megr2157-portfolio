@@ -87,6 +87,16 @@ Unknowns: The minimum area required for stiffness and the deformation of the sel
 
 Assumptions: B is a uniform, axially loaded bar. Its top connection is held in place, and shear deformation is neglected.
 
+![Project screenshot](Screenshot%202026-09-23%20at%2011.51.14%20PM.png)
+
+Feature C 
+
+Knowns: E = 29,000,000psi and the deflection limit is 0.005 in 
+
+Unknowns: the minimum thickness for stiffness and the deflection of the selected section. We assume a uniform beam and neglect shear deflection.
+
+Assumptions. I modeled Feature C as a uniform, straight beam with a rectangular cross section. I assumed the two supports are 2.40 in apart and that Feature B applies a 1,200 downward force and a 1,800 moment at the center. I assumed the end connections provide the reactions found in Part 1, including the downward hold-down reaction at the right end. I used a constant elastic modulus of E = 29,000,000 assumed small elastic deflections, and neglected shear deflection as directed in the assignment.
+
 
  
 
