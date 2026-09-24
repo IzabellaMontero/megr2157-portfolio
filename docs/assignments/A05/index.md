@@ -55,6 +55,19 @@ Known values. The applied force is Pd = 150lbf. I selected ASTM A36 steel with a
 
  Assumptions. Feature D has a uniform rectangular cross section. Its connection to E acts as a fixed support, and the force from C acts at D’s free end. I used elementary beam bending to size D and, as directed by the assignment, did not check failure due to direct shear.
 
+ ![Project screenshot](Screenshot%202026-09-23%20at%2010.50.34%20PM.png)
+
+ Feature E - Stress Analysis 
+ 
+Known values. Feature D transfers an upward force of PE = 150 lbf and a counterclockwise couple of MD = 75 lbf to Feature E. I selected ASTM A36 steel with an assumed yield strength of Sy = 36,000 psi. For a safety factor of N = 4, the allowable normal stress is Sy/an = 9,000psi
+
+Unknowns. The unknowns are the reaction force and moment at the T beam, and the minimum cross-section height required to keep E’s bending stress below the allowable value.
+
+Assumptions. For this trial calculation, I modeled E as a uniform rectangular beam, with D connected at its left end and a fixed T-beam restraint at its right end. I chose a trial distance e = 0.75in between those locations and a cross-section width WE = 1.50 in. These are design choices. I did not check failure due to direct shear, as instructed.
+ 
+
+ 
+
  
 
 
