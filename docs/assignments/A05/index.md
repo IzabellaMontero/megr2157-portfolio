@@ -117,6 +117,7 @@ Unknowns: The deflection of Feature E and the height needed to meet the deflecti
 
 Assumptions: Model E as a uniform rectangular cantilever fixed at the T beam. Treat the force and moment from D as loads at its free end. Assume small elastic deflections and neglect shear deflection, as the assignment directs.
 
+![Project screenshot](Screenshot%202026-09-24%20at%2012.12.32%20AM.png)
 
  
 
