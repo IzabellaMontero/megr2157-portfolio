@@ -122,6 +122,8 @@ Assumptions: Model E as a uniform rectangular cantilever fixed at the T beam. Tr
 
 **Generate Multiview Sketches**
 
+![Appendix E link design](Screenshot%202026-09-24%20at%2012.46.07%20AM.png)
+
 ![Project screenshot](Screenshot%202026-09-24%20at%2012.25.50%20AM.png)
 
 **Lessons Learned**
