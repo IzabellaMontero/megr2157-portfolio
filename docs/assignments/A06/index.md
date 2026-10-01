@@ -16,4 +16,6 @@ The objective of this project is to create a parametric SolidWorks based on the 
 
 I started off by putting the initial known values into the global variable chart of Solid Works. 
 
+![Project Image](Screenshot%202026-10-01%20at%202.39.35%20PM.png)
+
 
