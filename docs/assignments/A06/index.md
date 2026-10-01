@@ -28,3 +28,7 @@ Feature A is the solid cylindrical bar that supports the polyester strap. I mode
 ![Project Image](Screenshot%202026-10-01%20at%202.45.31%20PM.png)
 
 Feature B is the rectangular support that connects the cylindrical strap bar, Feature A, to the lower bracket section, Feature C. In the SolidWorks model, it has a width of 0.85 inches, a depth of 1.30 inches, and a clear height of 1.25 inches above the cylinder. I linked its depth to Feature A’s diameter so the dimensions remain consistent when the model changes. Feature B is made from ASTM A36 steel and transfers the strap load from Feature A into the upper bracket. 
+
+![Project Image](Screenshot%202026-10-01%20at%202.47.45%20PM.png)
+
+Feature C is the lower horizontal section of the bracket that connects Feature B to the two side walls, Feature D. In the SolidWorks model, it is 3.00 inches wide, 1.50 inches deep, and 0.90 inches thick. I created it using a rectangular sketch and a merged extrusion so it forms part of the same solid bracket. Feature C is made from ASTM A36 steel and transfers the load from Feature B toward the side walls. 
