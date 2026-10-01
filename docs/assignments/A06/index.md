@@ -32,3 +32,7 @@ Feature B is the rectangular support that connects the cylindrical strap bar, Fe
 ![Project Image](Screenshot%202026-10-01%20at%202.47.45%20PM.png)
 
 Feature C is the lower horizontal section of the bracket that connects Feature B to the two side walls, Feature D. In the SolidWorks model, it is 3.00 inches wide, 1.50 inches deep, and 0.90 inches thick. I created it using a rectangular sketch and a merged extrusion so it forms part of the same solid bracket. Feature C is made from ASTM A36 steel and transfers the load from Feature B toward the side walls. 
+
+![Project Image](Screenshot%202026-10-01%20at%202.50.59%20PM.png)
+
+Feature D consists of the two vertical side walls that connect the lower section, Feature C, to the upper retaining lips, Feature E. Each wall is 0.25 inches thick, 1.50 inches deep, and 1.50 inches high in the SolidWorks model. I created the walls symmetrically and merged them with the existing bracket. Made from ASTM A36 steel, these walls form the sides of the opening that surrounds the T-beam flange. The vertical gap between C and E is specified as 1.5000 ±0.0005 inches to provide clearance around the flange while limiting vertical play.
