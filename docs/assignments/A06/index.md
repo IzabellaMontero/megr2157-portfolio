@@ -24,3 +24,7 @@ I started off by putting the initial known values into the global variable chart
 Feature A is the solid cylindrical bar that supports the polyester strap. I modeled it as a cantilever beam attached to Feature B. Each strap leg carries 600 lbf, producing a combined load of 1,200 lbf. The bar is 2.00 inches long, with the load centered 1.50 inches from the modeled fixed connection. Using ASTM A36 steel and a safety factor of 4, the bending analysis gave a minimum diameter of 1.268 inches. I selected a diameter of 1.30 inches, which gives a calculated bending stress of approximately 8,345 psi and a maximum deflection of 0.000498 inches. These values are below the allowable stress of 9,000 psi and the deflection limit of 0.005 inches under the stated beam assumptions.
 
 ![Project Image](Screenshot%202026-10-01%20at%202.43.42%20PM.png)
+
+![Project Image](Screenshot%202026-10-01%20at%202.45.31%20PM.png)
+
+Feature B is the rectangular support that connects the cylindrical strap bar, Feature A, to the lower bracket section, Feature C. In the SolidWorks model, it has a width of 0.85 inches, a depth of 1.30 inches, and a clear height of 1.25 inches above the cylinder. I linked its depth to Feature A’s diameter so the dimensions remain consistent when the model changes. Feature B is made from ASTM A36 steel and transfers the strap load from Feature A into the upper bracket. 
