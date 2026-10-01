@@ -36,3 +36,12 @@ Feature C is the lower horizontal section of the bracket that connects Feature B
 ![Project Image](Screenshot%202026-10-01%20at%202.50.59%20PM.png)
 
 Feature D consists of the two vertical side walls that connect the lower section, Feature C, to the upper retaining lips, Feature E. Each wall is 0.25 inches thick, 1.50 inches deep, and 1.50 inches high in the SolidWorks model. I created the walls symmetrically and merged them with the existing bracket. Made from ASTM A36 steel, these walls form the sides of the opening that surrounds the T-beam flange. The vertical gap between C and E is specified as 1.5000 ±0.0005 inches to provide clearance around the flange while limiting vertical play.
+
+![Project Image](Screenshot%202026-10-01%20at%202.52.58%20PM.png)
+
+Feature E consists of the two upper retaining lips that extend inward from the side walls, Feature D, and capture the T-beam flange. Each lip is 1.25 inches wide, 1.50 inches deep, and 0.85 inches thick in the SolidWorks model. I created the lips symmetrically and merged them with the bracket. Their width is linked to the overall bracket width and the center slot width so the geometry updates consistently. The center slot is specified as 0.500 ±0.001 inches to provide sliding clearance around the T-beam stem. Like the other features, Feature E is made from ASTM A36 steel.
+
+**Drawing**
+
+This section presents the bracket’s SolidWorks engineering drawing, including front, top, and right-side views arranged in third-angle projection and an isometric view to show its overall shape. Dimensions describe the size and location of each feature, while specific tolerances define the three sliding fits around the rigid T-beam. A general tolerance block specifies the allowable variation for dimensions without individual tolerances. Together, these details communicate the intended geometry and fit requirements for manufacturing and inspection.
+
