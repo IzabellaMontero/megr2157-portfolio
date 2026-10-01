@@ -45,3 +45,14 @@ Feature E consists of the two upper retaining lips that extend inward from the s
 
 This section presents the bracket’s SolidWorks engineering drawing, including front, top, and right-side views arranged in third-angle projection and an isometric view to show its overall shape. Dimensions describe the size and location of each feature, while specific tolerances define the three sliding fits around the rigid T-beam. A general tolerance block specifies the allowable variation for dimensions without individual tolerances. Together, these details communicate the intended geometry and fit requirements for manufacturing and inspection.
 
+![Project Image](Screenshot%202026-10-01%20at%202.56.44%20PM.png)
+
+I arranged the drawing in third-angle projection, placing the top view directly above the front view and the right-side view to its right. This arrangement shows the bracket’s width, height, and depth consistently across the views. I also included an isometric view to help the reader understand the overall shape and how Features A through E connect.
+
+I selected specific tolerances for the three bracket openings using the given T-beam dimensional limits. The center slot is 0.500 ±0.001 inches, providing 0.001–0.004 inches of total clearance where precise location is less important. Each shoulder space is 1.0000 ±0.0002 inches, providing 0.0006–0.0015 inches of clearance for a closer sliding fit. The vertical opening is 1.5000 ±0.0005 inches, providing 0.0005–0.0025 inches of clearance to limit vertical play. These custom tolerances keep each minimum opening larger than its corresponding maximum T-beam dimension. The clearance calculations assume centered, symmetric geometry.
+
+I included the general tolerance block required by the assignment: X.X ±0.02 inches, X.XX ±0.01 inches, and X.XXX ±0.005 inches. These values define the allowable variation for dimensions without an individually specified tolerance. The three T-beam fit dimensions have their own tighter tolerances, which take precedence over the general block because those openings require closer control for assembly and sliding clearance.
+
+**Reflections**
+
+
