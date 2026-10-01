@@ -6,5 +6,8 @@ The objective of this project is to create a parametric SolidWorks based on the 
 
 ![Project Image](Screenshot%202026-10-01%20at%2012.25.38%20AM.png)
 
+**3D Models**
+
+1) Designate Materials 
 
 
