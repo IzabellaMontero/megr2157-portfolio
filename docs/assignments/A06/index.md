@@ -18,4 +18,8 @@ I started off by putting the initial known values into the global variable chart
 
 ![Project Image](Screenshot%202026-10-01%20at%202.39.35%20PM.png)
 
+![Project Image](Screenshot%202026-10-01%20at%202.40.43%20PM.png)
+
+
+Feature A is the solid cylindrical bar that supports the polyester strap. I modeled it as a cantilever beam attached to Feature B. Each strap leg carries 600 lbf, producing a combined load of 1,200 lbf. The bar is 2.00 inches long, with the load centered 1.50 inches from the modeled fixed connection. Using ASTM A36 steel and a safety factor of 4, the bending analysis gave a minimum diameter of 1.268 inches. I selected a diameter of 1.30 inches, which gives a calculated bending stress of approximately 8,345 psi and a maximum deflection of 0.000498 inches. These values are below the allowable stress of 9,000 psi and the deflection limit of 0.005 inches under the stated beam assumptions.
 
