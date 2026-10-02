@@ -56,7 +56,7 @@ I included the general tolerance block required by the assignment: X.X ±0.02 in
 **Reflections**
 I connected Feature A’s diameter to the bending-strength equation in SolidWorks: d_min = [32(SF)Pa/(πS_y)]^(1/3). Using a safety factor of 4, a combined strap load of 1,200 lbf, a moment arm of 1.50 in, and an ASTM A36 steel yield strength of 36,000 psi gave a minimum diameter of approximately 1.268 in. I added a 0.032 in sizing allowance, producing a modeled diameter of approximately 1.30 in. The A_Diameter variable controls the cylinder’s sketch diameter, allowing the geometry to update automatically when the inputs change. I verified this relationship by temporarily increasing the load to 1,400 lbf, which increased the diameter to approximately 1.37 in, then restoring the original load. Feature B’s depth also updates because it is linked to A_Diameter.
 
-(ADD more description about it and ass pic of equation) 
+![Project Image](Screenshot%202026-10-02%20at%205.27.12%20PM.png)
 
 
 I applied a tighter tolerance of 0.500 ± 0.001 in to the slot that receives the T-beam stem because it is a functional mating surface. The stem ranges from 0.497 to 0.498 in, while the slot ranges from 0.499 to 0.501 in, providing clearance for sliding assembly. In comparison, the bracket’s 3.00 in overall width uses the general two-decimal tolerance of ±0.01 in because this outside dimension does not directly control the sliding fit. This looser tolerance allows more manufacturing variation while the mating openings remain controlled by their specific tolerances. Applying unnecessarily tight tolerances to non-critical dimensions would increase machining and inspection effort without improving the fit.
