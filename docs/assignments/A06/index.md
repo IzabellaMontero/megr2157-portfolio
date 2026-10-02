@@ -61,3 +61,12 @@ I connected Feature A’s diameter to the bending-strength equation in SolidWork
 
 I applied a tighter tolerance of 0.500 ± 0.001 in to the slot that receives the T-beam stem because it is a functional mating surface. The stem ranges from 0.497 to 0.498 in, while the slot ranges from 0.499 to 0.501 in, providing clearance for sliding assembly. In comparison, the bracket’s 3.00 in overall width uses the general two-decimal tolerance of ±0.01 in because this outside dimension does not directly control the sliding fit. This looser tolerance allows more manufacturing variation while the mating openings remain controlled by their specific tolerances. Applying unnecessarily tight tolerances to non-critical dimensions would increase machining and inspection effort without improving the fit.
 
+**Bracket Parametric Design**
+
+![Project Image](Screenshot%202026-10-02%20at%205.56.53%20PM.png)
+
+I modeled the link in SolidWorks as a separate ASTM A36 steel plate with rounded ends and two through-holes. The plate is 2.00 in wide and 0.25 in thick, with hole centers spaced 2.50 in apart, giving an overall length of 4.50 in. Global variables control the width, thickness, spacing, and end radius. The lower hole connects to Feature A, and its diameter is defined as A_Diameter + 0.005 in using shared bracket parameters. This relationship allows the hole size to update when Feature A’s diameter changes. The upper hole has a nominal diameter of 1.00 in for the second shaft. The required sliding-fit and light press-fit tolerances will be specified on the engineering drawing.
+
+**Reflections**
+
+This project taught me that matching nominal dimensions alone does not guarantee compatibility between parts. The link’s hole and Feature A must have coordinated tolerances so the smallest hole remains larger than the largest shaft for a sliding fit. In contrast, the connection to the 1-inch shaft requires controlled interference for a light press fit. Linking the lower hole’s diameter to Feature A helps maintain their dimensional relationship, but the tolerance limits must still be checked separately. Dimensions communicate the link’s size and hole locations, while tolerances communicate the allowable variation needed for assembly and function. Specific fit and geometric tolerances help the manufacturer and inspector understand which surfaces require closer control.
