@@ -65,6 +65,8 @@ I applied a tighter tolerance of 0.500 ± 0.001 in to the slot that receives the
 
 ![Project Image](Screenshot%202026-10-02%20at%205.56.53%20PM.png)
 
+![Project Image](Screenshot%202026-10-02%20at%209.14.53%20PM.png)
+
 I modeled the link in SolidWorks as a separate ASTM A36 steel plate with rounded ends and two through-holes. The plate is 2.00 in wide and 0.25 in thick, with hole centers spaced 2.50 in apart, giving an overall length of 4.50 in. Global variables control the width, thickness, spacing, and end radius. The lower hole connects to Feature A, and its diameter is defined as A_Diameter + 0.005 in using shared bracket parameters. This relationship allows the hole size to update when Feature A’s diameter changes. The upper hole has a nominal diameter of 1.00 in for the second shaft. The required sliding-fit and light press-fit tolerances will be specified on the engineering drawing.
 
 **Reflections**
