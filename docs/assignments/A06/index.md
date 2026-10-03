@@ -72,3 +72,13 @@ I modeled the link in SolidWorks as a separate ASTM A36 steel plate with rounded
 **Reflections**
 
 This project taught me that matching nominal dimensions alone does not guarantee compatibility between parts. The link’s hole and Feature A must have coordinated tolerances so the smallest hole remains larger than the largest shaft for a sliding fit. In contrast, the connection to the 1-inch shaft requires controlled interference for a light press fit. Linking the lower hole’s diameter to Feature A helps maintain their dimensional relationship, but the tolerance limits must still be checked separately. Dimensions communicate the link’s size and hole locations, while tolerances communicate the allowable variation needed for assembly and function. Specific fit and geometric tolerances help the manufacturer and inspector understand which surfaces require closer control.
+
+### CAD Files
+
+[SolidWorks Part – A6(2175)](A6%282175%29.SLDPRT)
+
+[SolidWorks Drawing – A6 Drawing](A6_Drawing.SLDDRW)
+
+[SolidWorks Part – Strength & Stiffness Bracket](Strength_Stiffness_Bracket.SLDPRT)
+
+[PDF Drawing – A6(2175)](A6%282175%29.pdf)
