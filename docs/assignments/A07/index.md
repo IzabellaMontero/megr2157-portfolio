@@ -17,6 +17,9 @@ The task is to create a high stiff, high strength and light weight component. Us
 
 (Insert image here) 
 
+**First outer Loop** 
+
+
 
 ## Analyze
 
