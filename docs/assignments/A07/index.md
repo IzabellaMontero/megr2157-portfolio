@@ -69,6 +69,10 @@ Design I established the baseline for evaluating the modified brackets. The two 
 
 
 
+![Screenshot](Screenshot%202026-10-19%20at%2010.26.37%20AM.png)
+
+
+
 
 
 
