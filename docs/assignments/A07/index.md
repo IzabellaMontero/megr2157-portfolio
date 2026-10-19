@@ -28,6 +28,10 @@ Preliminary Stress Results
 The initial coarse-mesh solution produced a maximum von Mises stress of approximately 62.61 MPa, or 9,081 psi. Using the simulation material’s displayed yield strength of 250 MPa gives an approximate yield safety factor of 3.99, slightly below the target of 4. These results are preliminary because mesh convergence has not yet been checked. The displayed deformation was magnified by approximately 180.7 times to make the bending visible.
 
 
+![Screenshot](Screenshot%202026-10-19%20at%209.36.13%20AM.png)
+
+
+
 ## Analyze
 
 
