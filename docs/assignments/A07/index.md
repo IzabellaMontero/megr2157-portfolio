@@ -62,7 +62,11 @@ Design I established the baseline for evaluating the modified brackets. The two 
 ![Screenshot](Screenshot%202026-10-19%20at%2010.23.29%20AM.png)
 
 
-![Screenshot](Screenshot%202026-10-19%20at%2010.24.34%20AM.png)
+![Screenshot](Screenshot%202026-10-19%20at%2010.24.34%20AM.png)'
+
+
+![Screenshot](Screenshot%202026-10-19%20at%2010.25.46%20AM.png)
+
 
 
 
