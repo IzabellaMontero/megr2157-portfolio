@@ -35,6 +35,12 @@ The initial coarse-mesh solution produced a maximum von Mises stress of approxim
 ![Screenshot](Screenshot%202026-10-19%20at%209.36.13%20AM.png)
 
 
+Mesh Refinement
+
+Two high-quality solid meshes were evaluated using the blended curvature-based mesher. The geometry, material, load, and supports remained unchanged during refinement.
+
+
+
 
 ## Analyze
 
