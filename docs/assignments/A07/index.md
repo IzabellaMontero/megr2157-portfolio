@@ -40,6 +40,24 @@ Mesh Refinement
 Two high-quality solid meshes were evaluated using the blended curvature-based mesher. The geometry, material, load, and supports remained unchanged during refinement.
 
 
+![Screenshot](Screenshot%202026-10-19%20at%2010.17.40%20AM.png)
+
+Using the first mesh as the reference, the maximum stress changed by 6.28%, and maximum displacement changed by 1.27%. Both changes were below 7%, satisfying the assignment’s mesh-convergence criterion after two runs. The second mesh was therefore used to report the Design I results. This satisfies the specified comparison criterion; it does not eliminate all modeling or mesh uncertainty, particularly near sharp inside corners.
+
+Stress Results
+
+The second mesh produced a maximum von Mises stress of 66.54 MPa. The maximum occurred at an inside lower corner of the T-slot, where the sidewall, Feature D, meets the bottom crosspiece, Feature C. This identified the corner as an important area to consider when modifying the bracket.
+
+Dividing the material yield strength of 250 MPa by the maximum stress of 66.54 MPa gave a calculated safety factor of 3.76. Although the maximum stress was below yield strength, the safety factor did not meet the original target of 4.
+
+Displacement and Mass Results
+
+The maximum resultant displacement was 0.09364 mm, equivalent to approximately 0.003687 inches. It occurred near the free end of the cylindrical strap support, Feature A. This whole-bracket displacement was below 0.005 inches, providing a conservative comparison with the original per-feature deflection limit. The Mass Properties tool reported a bracket mass of 3.53 lb
+
+Design I Conclusion
+
+Design I established the baseline for evaluating the modified brackets. The two mesh runs met the assignment’s 7% convergence criterion. The reported maximum displacement was below 0.005 inches, but the calculated safety factor of 3.76 was below the target of 4. The stress concentration at the lower inside corner of the T-slot provides a reason to modify this region in Design II. Later designs will be compared using the same material, applied load, and support assumptions to evaluate changes in stress, displacement, safety factor, and mass.
+
 
 
 ## Analyze
