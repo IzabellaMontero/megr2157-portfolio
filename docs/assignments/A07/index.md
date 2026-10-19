@@ -59,6 +59,10 @@ Design I Conclusion
 Design I established the baseline for evaluating the modified brackets. The two mesh runs met the assignment’s 7% convergence criterion. The reported maximum displacement was below 0.005 inches, but the calculated safety factor of 3.76 was below the target of 4. The stress concentration at the lower inside corner of the T-slot provides a reason to modify this region in Design II. Later designs will be compared using the same material, applied load, and support assumptions to evaluate changes in stress, displacement, safety factor, and mass.
 
 
+![Screenshot](Screenshot%202026-10-19%20at%2010.23.29%20AM.png)
+
+
+
 
 ## Analyze
 
