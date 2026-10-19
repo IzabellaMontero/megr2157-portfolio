@@ -14,8 +14,7 @@
 I am to use finite element analysis to learn and comprehend a deeper understanding of how FEA can be used in a design process. Using previous design projects, 5 and 6. 
 
 The task is to create a high stiff, high strength and light weight component. Use FEA to influence my decision making throughout the design. Each step throughout the analysis and before I make geometric changes, I need to make sure the components results (stress/displacement/safety factor) converge on a 7% difference. I can achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through. 
-
-(Insert image here) 
+ 
 
 **Bracket FEA - Design 1: Initial Analysis"**
 
@@ -26,14 +25,6 @@ I generated a high-quality solid mesh using the blended curvature-based mesher. 
 Preliminary Stress Results 
 
 The initial coarse-mesh solution produced a maximum von Mises stress of approximately 62.61 MPa, or 9,081 psi. Using the simulation material’s displayed yield strength of 250 MPa gives an approximate yield safety factor of 3.99, slightly below the target of 4. These results are preliminary because mesh convergence has not yet been checked. The displayed deformation was magnified by approximately 180.7 times to make the bending visible.
-
-
-![Screenshot](Screenshot%202026-10-19%20at%209.38.44%20AM.png)
-
-
-
-![Screenshot](Screenshot%202026-10-19%20at%209.36.13%20AM.png)
-
 
 Mesh Refinement
 
@@ -57,6 +48,10 @@ The maximum resultant displacement was 0.09364 mm, equivalent to approximately 0
 Design I Conclusion
 
 Design I established the baseline for evaluating the modified brackets. The two mesh runs met the assignment’s 7% convergence criterion. The reported maximum displacement was below 0.005 inches, but the calculated safety factor of 3.76 was below the target of 4. The stress concentration at the lower inside corner of the T-slot provides a reason to modify this region in Design II. Later designs will be compared using the same material, applied load, and support assumptions to evaluate changes in stress, displacement, safety factor, and mass.
+
+![Screenshot](Screenshot%202026-10-19%20at%209.38.44%20AM.png)
+
+![Screenshot](Screenshot%202026-10-19%20at%209.36.13%20AM.png)
 
 
 ![Screenshot](Screenshot%202026-10-19%20at%2010.23.29%20AM.png)
