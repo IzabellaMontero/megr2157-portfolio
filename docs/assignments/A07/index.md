@@ -114,6 +114,15 @@ Compared with Design I, Design II’s reported maximum stress increased from 66.
 For Design III, I increased the thickness of both upper lips, Feature E, from 0.85 in to 1.10 in while retaining the fillets from Design II. This change was intended to strengthen the support region. I kept ASTM A36 steel, the 1,200 lbf downward load, and the same fixed supports so that I could compare the designs.
 
 
+![Screenshot](Screenshot%202026-10-20%20at%206.46.45%20PM.png)
+
+Between the second and third meshes, maximum displacement changed by approximately 0.73%, satisfying the 7% convergence criterion. However, maximum stress increased by approximately 36.47%, so stress did not converge within three attempts. I reported the finest-mesh results and retained this limitation when interpreting the design.
+
+The finest mesh produced a maximum stress of 117.6 MPa at the upper-left inside corner beneath Feature E, near the fixed support. Using the material yield strength of 250 MPa, the calculated yield-based safety factor was approximately 2.13. Because the peak stress did not converge, this safety factor remains mesh dependent and does not establish that the design meets the required safety factor of 4.
+
+Maximum displacement was 0.09571 mm, or 0.003768 in, near the free end of cylinder A. The mass was 3.90 lb, approximately 10.5% greater than the previous designs. The thicker lips therefore increased mass without demonstrating an improvement in the reported displacement or peak stress.
+
+
 
 
 
