@@ -144,6 +144,13 @@ Maximum displacement was 0.09571 mm, or 0.003768 in, near the free end of cylind
 ![Screenshot 8](Screenshot%202026-10-20%20at%206.54.26%20PM.png)
 
 
+**Comparison of the Three Designs**
+
+
+![Screenshot](Screenshot%202026-10-20%20at%206.57.22%20PM.png)
+
+
+
 
 
 
