@@ -91,6 +91,10 @@ The maximum resultant displacement was 0.09445 mm, or approximately 0.003719 inc
 Compared with Design I, Design II’s reported maximum stress increased from 66.54 to 73.50 MPa, while displacement increased slightly from 0.003687 to 0.003719 inches. Therefore, the lower-corner fillets did not improve the reported overall strength or stiffness. This result demonstrates why a proposed improvement must be tested through analysis. Design III will use these findings to guide the next geometry change.
 
 
+![Screenshot](Screenshot%202026-10-20%20at%2011.24.08%20AM.png)
+
+
+
 ## Analyze
 
 
