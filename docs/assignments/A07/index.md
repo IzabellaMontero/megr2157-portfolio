@@ -149,6 +149,15 @@ Maximum displacement was 0.09571 mm, or 0.003768 in, near the free end of cylind
 
 ![Screenshot](Screenshot%202026-10-20%20at%206.57.22%20PM.png)
 
+## Reflections 
+
+This assignment taught me to check mesh convergence before interpreting finite element results. For Design III, increasing the element count from 34,158 to 103,128 changed maximum displacement by only 0.73%, but maximum stress increased by 36.47%. This showed that displacement can stabilize while peak stress remains sensitive to mesh refinement. Although I reached the assignment’s three-attempt stopping point, I could not describe Design III’s peak stress as converged.
+
+I also learned that adding material does not automatically improve a design’s overall performance. Increasing the upper-lip thickness from 0.85 in to 1.10 in increased mass from 3.53 lb to 3.90 lb without reducing the reported maximum displacement. Design I had the lowest reported displacement and converged peak stress among the designs tested. However, none of the calculated safety factors reached the original target of 4, and Design III’s safety factor remained mesh dependent.
+
+Keeping the material, load, and support conditions consistent helped me compare the geometry changes. The stress concentration near the fixed upper-lip region also showed why support assumptions and local geometry require careful interpretation. Future work would investigate that region and the support representation before drawing firm conclusions about strength.
+
+I spent approximately 8 hours completing the CAD modifications, simulation setup, mesh refinement, results review, and portfolio documentation.
 
 
 
