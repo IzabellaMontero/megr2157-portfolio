@@ -76,6 +76,16 @@ For Design II, I added 0.125-inch-radius fillets to the two lower inside corners
 Two high-quality solid meshes were evaluated using the blended curvature-based mesher. The first mesh used maximum and minimum element sizes of 0.32 and 0.16 inches. The second mesh reduced these sizes to 0.22 and 0.11 inches. Geometry, material, supports, and loading remained unchanged between these runs.
 
 
+![Screenshot](Screenshot%202026-10-20%20at%2011.19.19%20AM.png)
+
+Maximum stress changed by approximately 0.84%, displacement changed by 1.27%, and the calculated safety factor changed by 0.84%. All three changes were below the assignment’s 7% criterion, so the second mesh was used to report Design II’s results.
+
+The final maximum von Mises stress was 73.50 MPa. The maximum-stress annotation indicated an upper inside corner beneath the right lip, near the fixed support. Using the material library’s yield strength of 250 MPa, the calculated safety factor was 3.40. This remained below the target safety factor of 4. Stress near the fully restrained support should be interpreted with the simplified boundary conditions in mind.
+
+The maximum resultant displacement was 0.09445 mm, or approximately 0.003719 inches, near the free end of Feature A. This was below the 0.005-inch displacement comparison limit. Mass Properties reported a mass of 3.53 lb, matching Design I at the displayed precision.
+
+Compared with Design I, Design II’s reported maximum stress increased from 66.54 to 73.50 MPa, while displacement increased slightly from 0.003687 to 0.003719 inches. Therefore, the lower-corner fillets did not improve the reported overall strength or stiffness. This result demonstrates why a proposed improvement must be tested through analysis. Design III will use these findings to guide the next geometry change.
+
 
 ## Analyze
 
