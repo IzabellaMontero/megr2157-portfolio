@@ -109,6 +109,11 @@ Compared with Design I, Design II’s reported maximum stress increased from 66.
 
 ![Screenshot 5](Screenshot%202026-10-20%20at%2011.27.42%20AM.png)
 
+## Design III - Thick upper lips 
+
+For Design III, I increased the thickness of both upper lips, Feature E, from 0.85 in to 1.10 in while retaining the fillets from Design II. This change was intended to strengthen the support region. I kept ASTM A36 steel, the 1,200 lbf downward load, and the same fixed supports so that I could compare the designs.
+
+
 
 
 
