@@ -95,6 +95,23 @@ Compared with Design I, Design II’s reported maximum stress increased from 66.
 
 
 
+![Screenshot 1](Screenshot%202026-10-20%20at%2011.25.15%20AM.png)
+
+
+![Screenshot 2](Screenshot%202026-10-20%20at%2011.25.54%20AM.png)
+
+
+![Screenshot 3](Screenshot%202026-10-20%20at%2011.26.39%20AM.png)
+
+
+![Screenshot 4](Screenshot%202026-10-20%20at%2011.27.17%20AM.png)
+
+
+![Screenshot 5](Screenshot%202026-10-20%20at%2011.27.42%20AM.png)
+
+
+
+
 ## Analyze
 
 
