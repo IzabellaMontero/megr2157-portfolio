@@ -73,6 +73,10 @@ Design I established the baseline for evaluating the modified brackets. The two 
 
 For Design II, I added 0.125-inch-radius fillets to the two lower inside corners of the T-slot, where the sidewalls meet the bottom crosspiece. Design I showed high stress near these corners, so the purpose of this modification was to test whether smoother transitions would improve the bracket’s strength. ASTM A36 steel, the 1,200 lbf downward load, and the fixed supports beneath the two upper lips were retained for comparison.
 
+
+![Screenshot](Screenshot%202026-10-20%20at%2011.22.59%20AM.png)
+
+
 Two high-quality solid meshes were evaluated using the blended curvature-based mesher. The first mesh used maximum and minimum element sizes of 0.32 and 0.16 inches. The second mesh reduced these sizes to 0.22 and 0.11 inches. Geometry, material, supports, and loading remained unchanged between these runs.
 
 
