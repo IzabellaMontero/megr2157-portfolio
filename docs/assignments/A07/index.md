@@ -127,6 +127,24 @@ The finest mesh produced a maximum stress of 117.6 MPa at the upper-left inside 
 Maximum displacement was 0.09571 mm, or 0.003768 in, near the free end of cylinder A. The mass was 3.90 lb, approximately 10.5% greater than the previous designs. The thicker lips therefore increased mass without demonstrating an improvement in the reported displacement or peak stress.
 
 
+![Screenshot 1](Screenshot%202026-10-20%20at%206.51.15%20PM.png)
+
+![Screenshot 2](Screenshot%202026-10-20%20at%206.51.59%20PM.png)
+
+![Screenshot 3](Screenshot%202026-10-20%20at%206.52.32%20PM.png)
+
+![Screenshot 4](Screenshot%202026-10-20%20at%206.52.53%20PM.png)
+
+![Screenshot 5](Screenshot%202026-10-20%20at%206.53.12%20PM.png)
+
+![Screenshot 6](Screenshot%202026-10-20%20at%206.53.29%20PM.png)
+
+![Screenshot 7](Screenshot%202026-10-20%20at%206.53.48%20PM.png)
+
+![Screenshot 8](Screenshot%202026-10-20%20at%206.54.26%20PM.png)
+
+
+
 
 
 
