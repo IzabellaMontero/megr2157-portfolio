@@ -260,6 +260,26 @@ Using the displayed material yield strength of 241.3 MPa, the calculated safety 
 
 
 
+## SolidWorks CAD Models
+
+### Bracket Designs
+
+[Download Bracket Design II](Bracket_Design_ll.SLDPRT)
+
+[Download Bracket Design III](Bracket_Design_III.SLDPRT)
+
+[Download Bracket FEA A7](Bracket_FEA_A7.SLDPRT)
+
+### Link Designs
+
+[Download Link Design I FEA](Link_Design_1_FEA.SLDPRT)
+
+[Download Link Design II FEA](Link_Design_11_FEA.SLDPRT)
+
+[Download Link Design III FEA](Link_Design_III_FEA.SLDPRT)
+
+
+
 
 
 
