@@ -201,6 +201,31 @@ The maximum stress changed by approximately 1.32%, and displacement changed by a
 Using the displayed yield strength of 241.3 MPa, the calculated safety factor was approximately 4.04, slightly above the target of 4 under the modeled conditions. Compared with Design I, maximum stress decreased by approximately 19.8%, and maximum displacement decreased by approximately 19.9%. However, the displayed mass increased from 0.40 lb to 0.50 lb. This demonstrated the tradeoff between increased strength and stiffness and additional mass, motivating material removal in Design III.
 
 
+![Screenshot 1](Screenshot%202026-10-21%20at%2012.31.51%20PM.png)
+
+![Screenshot 2](Screenshot%202026-10-21%20at%2012.32.20%20PM.png)
+
+![Screenshot 3](Screenshot%202026-10-21%20at%2012.32.38%20PM.png)
+
+![Screenshot 4](Screenshot%202026-10-21%20at%2012.33.00%20PM.png)
+
+![Screenshot 5](Screenshot%202026-10-21%20at%2012.33.17%20PM.png)
+
+![Screenshot 6](Screenshot%202026-10-21%20at%2012.33.39%20PM.png)
+
+![Screenshot 7](Screenshot%202026-10-21%20at%2012.34.07%20PM.png)
+
+**Design 3**
+
+For Design III, I retained the 0.3125 in plate thickness from Design II and added a 0.50 in diameter through-hole midway between the two connection holes. This modification was intended to reduce mass by removing material from a region that showed relatively low stress in Design II. I kept the assigned material, connection-hole dimensions, upper-hole fixture, and 1,200 lbf downward load unchanged. The new middle hole remained unloaded.
+
+I completed two mesh attempts using a high-quality, blended curvature-based solid mesh. The first mesh used maximum and minimum element sizes of 0.15 in and 0.075 in, with 8,463 nodes and 4,924 elements. It produced a maximum von Mises stress of 56.51 MPa and maximum displacement of 0.01370 mm. The refined mesh used sizes of 0.10 in and 0.05 in, with 27,756 nodes and 17,550 elements. Its maximum stress was 58.07 MPa, and maximum displacement was 0.01371 mm.
+
+Mesh refinement changed maximum stress by approximately 2.76% and maximum displacement by approximately 0.073%. Both satisfied the assignment’s 7% convergence criterion, so I used the refined mesh for the final results. The highest stress appeared beside the larger lower connection hole, while the greatest displacement occurred at the bottom of the link.
+
+Using the displayed material yield strength of 241.3 MPa, the calculated safety factor was approximately 4.16, exceeding the target of 4 under the modeled conditions. The mass was 0.48 lb, and the volume was 1.82 in³. Compared with Design II, the middle cutout reduced the displayed mass by 0.02 lb, or approximately 4%. The reported peak stress was also lower, although the small differences in stress and displacement should be interpreted alongside mesh sensitivity. Design III provided a lighter alternative to Design II while retaining a calculated safety factor above 4 in this simplified analysis.
+
+
 
 
 ## Analyze
