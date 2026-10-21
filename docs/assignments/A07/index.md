@@ -176,19 +176,27 @@ Dividing the material yield strength of 241.3 MPa by the maximum stress of 74.43
 
 ![Screenshot 1](Screenshot%202026-10-21%20at%2012.24.27%20PM.png)
 
+
 ![Screenshot 2](Screenshot%202026-10-21%20at%2012.24.50%20PM.png)
+
 
 ![Screenshot 3](Screenshot%202026-10-21%20at%2012.25.11%20PM.png)
 
+
 ![Screenshot 4](Screenshot%202026-10-21%20at%2012.25.29%20PM.png)
+
 
 ![Screenshot 5](Screenshot%202026-10-21%20at%2012.25.58%20PM.png)
 
+
 ![Screenshot 6](Screenshot%202026-10-21%20at%2012.26.22%20PM.png)
+
 
 ![Screenshot 7](Screenshot%202026-10-21%20at%2012.26.39%20PM.png)
 
+
 ![Screenshot 8](Screenshot%202026-10-21%20at%2012.27.06%20PM.png)
+
 
 **Design 2** 
 
@@ -226,13 +234,33 @@ Mesh refinement changed maximum stress by approximately 2.76% and maximum displa
 Using the displayed material yield strength of 241.3 MPa, the calculated safety factor was approximately 4.16, exceeding the target of 4 under the modeled conditions. The mass was 0.48 lb, and the volume was 1.82 in³. Compared with Design II, the middle cutout reduced the displayed mass by 0.02 lb, or approximately 4%. The reported peak stress was also lower, although the small differences in stress and displacement should be interpreted alongside mesh sensitivity. Design III provided a lighter alternative to Design II while retaining a calculated safety factor above 4 in this simplified analysis.
 
 
+![Screenshot 1](Screenshot%202026-10-21%20at%2012.38.22%20PM.png)
 
 
-## Analyze
+![Screenshot 2](Screenshot%202026-10-21%20at%2012.38.44%20PM.png)
 
 
-## Decide
+![Screenshot 3](Screenshot%202026-10-21%20at%2012.39.04%20PM.png)
 
 
-## Communicate
+
+![Screenshot 4](Screenshot%202026-10-21%20at%2012.39.17%20PM.png)
+
+
+![Screenshot 5](Screenshot%202026-10-21%20at%2012.39.31%20PM.png)
+
+
+![Screenshot 6](Screenshot%202026-10-21%20at%2012.39.48%20PM.png)
+
+
+![Screenshot 7](Screenshot%202026-10-21%20at%2012.40.01%20PM.png)
+
+
+![Screenshot 8](Screenshot%202026-10-21%20at%2012.40.25%20PM.png)
+
+
+
+
+
+
 
