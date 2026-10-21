@@ -159,7 +159,19 @@ Keeping the material, load, and support conditions consistent helped me compare 
 
 I spent approximately 8 hours completing the CAD modifications, simulation setup, mesh refinement, results review, and portfolio documentation.
 
+## 2157 Link 
 
+**Design 1** 
+
+For Design I, I analyzed the original two-hole link in SOLIDWORKS Simulation as a baseline for comparison. The plate thickness was 0.25 in. I retained the previously assigned material, which had a displayed yield strength of 241.3 MPa. The smaller upper hole connects to the 1-inch shaft, while the larger lower hole connects to Feature A.
+
+I modeled the inside cylindrical surface of the upper hole as fixed and applied a total downward force of 1,200 lbf to the inside cylindrical surface of the lower hole. These conditions approximate the shaft restraint and force transferred through the link. The analysis assumed static loading, linear elastic material behavior, and small deformation. Shaft contact, clearance, and press-fit stresses were not explicitly modeled.
+
+I used a high-quality, blended curvature-based solid mesh and completed two mesh attempts. The first mesh had maximum and minimum element sizes of 0.15 in and 0.075 in, with 7,015 nodes and 3,850 elements. It produced a maximum von Mises stress of 72.93 MPa and maximum resultant displacement of 0.01715 mm. The second mesh used sizes of 0.10 in and 0.05 in, with 21,547 nodes and 13,141 elements. It produced a maximum stress of 74.43 MPa and maximum displacement of 0.01715 mm.
+
+Mesh refinement changed the maximum stress by approximately 2.06%, while displacement remained unchanged at the displayed precision. Both met the assignment’s 7% convergence criterion, so I used the second mesh for the final results. The stress plot indicated the highest stress beside the larger lower hole, while the greatest displacement occurred at the bottom of the link.
+
+Dividing the material yield strength of 241.3 MPa by the maximum stress of 74.43 MPa gave a calculated safety factor of approximately 3.24. The link’s mass was 0.40 lb, and its volume was 1.50 in³. Although the reported stress was below yield strength, the calculated safety factor was below the target of 4. These results motivated increasing the plate thickness for Design II.
 
 
 
