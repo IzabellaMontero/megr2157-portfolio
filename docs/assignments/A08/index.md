@@ -23,3 +23,11 @@ Therefore, no increase in shaft diameter was necessary for the assumed loading c
 **Output Shaft - Short Shaft** 
 
 The objective of this analysis was to determine whether the specified 0.250-inch output shaft diameter was sufficient to transmit the required torque of 1.25 in·lbf at a rotational speed of 1100 rpm. The analysis included calculating the transmitted horsepower, minimum required shaft diameter, maximum torsional shear stress, and allowable horsepower capacity using the equations provided in Machinery's Handbook, 31st Edition.
+
+<img src="Screenshot 2026-10-27 at 7.46.39 PM.png" width="500">
+
+<img src="Screenshot 2026-10-27 at 7.47.03 PM.png" width="500">
+
+The output shaft was determined to be sufficient under the simplified torsional loading conditions. The calculated maximum shear stress of 407.44 psi was significantly below the selected allowable torsional shear stress of 8500 psi. Additionally, the calculated minimum required shaft diameter of approximately 0.0909 inches was smaller than the provided diameter of 0.250 inches.
+
+Therefore, the original output shaft diameter was retained without modification. The analysis confirms that the shaft satisfies the specified torsional strength criterion, subject to the assumptions made regarding loading and allowable stress.
