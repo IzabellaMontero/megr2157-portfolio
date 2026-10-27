@@ -12,3 +12,10 @@ The objective of this section was to determine whether the specified 0.125-inch 
 <img src="Screenshot 2026-10-27 at 7.29.07 PM.png" width="500">
 
 <img src="Screenshot 2026-10-27 at 7.29.34 PM.png" width="500">
+
+The gearbox was assumed to operate as an ideal gear train without mechanical power losses. The input shaft was modeled as a solid circular shaft subjected primarily to torsional loading, with bending moments neglected for this simplified analysis. An allowable torsional shear stress of 4000 psi was selected using the handbook's main power-transmitting shaft category.
+
+
+The input shaft was determined to be sufficient under the simplified torsional loading conditions. The calculated maximum shear stress of 1222.31 psi was below the selected allowable shear stress of 4000 psi. Additionally, the minimum required shaft diameter of approximately 0.0842 inches was smaller than the specified 0.125-inch diameter.
+
+Therefore, no increase in shaft diameter was necessary for the assumed loading conditions. The shaft was retained at its original diameter of 0.125 inches for the gearbox design.
