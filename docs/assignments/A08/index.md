@@ -31,3 +31,8 @@ The objective of this analysis was to determine whether the specified 0.250-inch
 The output shaft was determined to be sufficient under the simplified torsional loading conditions. The calculated maximum shear stress of 407.44 psi was significantly below the selected allowable torsional shear stress of 8500 psi. Additionally, the calculated minimum required shaft diameter of approximately 0.0909 inches was smaller than the provided diameter of 0.250 inches.
 
 Therefore, the original output shaft diameter was retained without modification. The analysis confirms that the shaft satisfies the specified torsional strength criterion, subject to the assumptions made regarding loading and allowable stress.
+
+**Journal Bearing Design**
+
+The objective of this section was to determine suitable journal bearing dimensions for the input and output shafts of the gearbox. The design involved selecting preliminary bearing lengths, determining projected bearing areas, calculating surface velocities, and establishing the equations for bearing loads, pressures, and PV ratings.
+
