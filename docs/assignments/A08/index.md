@@ -108,3 +108,6 @@ SAE 841 oil-embedded bronze was selected due to its self-lubricating characteris
 **Gearbox Housing - Design**
 
 A rounded two-piece gearbox housing was selected as the preliminary design concept. The housing follows the general outline of the meshing spur gears, providing a compact arrangement while reducing unnecessary material compared with a larger rectangular enclosure.
+
+<img src="Screenshot 2026-10-29 at 10.56.31 AM.png" width="500">
+
