@@ -104,3 +104,7 @@ Output Shaft Bearings
 These bearing candidates were selected because their nominal shaft diameters match the gearbox specifications and their lengths match the preliminary length-to-diameter design ratio of 1.0.
 
 SAE 841 oil-embedded bronze was selected due to its self-lubricating characteristics and suitability for rotating-shaft applications
+
+**Gearbox Housing - Design**
+
+A rounded two-piece gearbox housing was selected as the preliminary design concept. The housing follows the general outline of the meshing spur gears, providing a compact arrangement while reducing unnecessary material compared with a larger rectangular enclosure.
