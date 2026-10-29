@@ -54,3 +54,8 @@ These calculations establish the operating requirements for selecting appropriat
 
 The objective of this section was to evaluate the wall thicknesses of the journal bearings supporting the input and output shafts. The analysis involved using the dimensions of preliminary commercial sleeve-bearing candidates to determine their nominal wall thicknesses and establish the basis for evaluating their structural performance.
 
+<img src="Screenshot 2026-10-28 at 11.39.47 PM.png" width="500">
+
+<img src="Screenshot 2026-10-28 at 11.40.02 PM.png" width="500">
+
+The selected input bearing candidate has a nominal wall thickness of 0.03125 inches. The selected output bearing candidate has a nominal wall thickness of 0.06250 inches.
