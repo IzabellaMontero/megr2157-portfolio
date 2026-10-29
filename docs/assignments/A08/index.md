@@ -58,4 +58,15 @@ The objective of this section was to evaluate the wall thicknesses of the journa
 
 <img src="Screenshot 2026-10-28 at 11.40.02 PM.png" width="500">
 
-The selected input bearing candidate has a nominal wall thickness of 0.03125 inches. The selected output bearing candidate has a nominal wall thickness of 0.06250 inches.
+The journal bearing dimensions were selected from the McMaster-Carr catalog rather than choosing arbitrary wall thicknesses. This approach ensured that the proposed bearings corresponded to commercially manufactured components that could be incorporated into the gearbox CAD model.
+
+The input bearing was selected with a nominal inside diameter of 0.125 inches and an outside diameter of 0.1875 inches. The output bearing was selected with a nominal inside diameter of 0.250 inches and an outside diameter of 0.375 inches
+
+These dimensions were chosen to match the specified shaft sizes and provide suitable preliminary bearing geometry within the gearbox housing.
+
+Two bearings were selected for each shaft, with one bearing positioned on each side of the gear. For the preliminary calculations, each gear was assumed to be centered between the supports, resulting in equal bearing reactions.
+
+SAE 841 oil-embedded bronze was selected as the proposed journal bearing material due to its self-lubricating properties, widespread use in sleeve bearings, and availability in standard commercial dimensions.
+
+The preliminary wall thicknesses of 0.03125 inches for the input journal bearings and
+0.06250 inches for the output journal bearings were retained for the initial gearbox CAD design.
