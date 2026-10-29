@@ -34,13 +34,6 @@ Therefore, the original output shaft diameter was retained without modification.
 
 **Journal Bearing Design**
 
-The objective of this section was to determine suitable journal bearing dimensions for the input and output shafts of the gearbox. The design involved selecting preliminary bearing lengths, determining projected bearing areas, calculating surface velocities, and establishing the equations for bearing loads, pressures, and PV ratings.
+Two journal bearings were selected for each shaft, with one bearing positioned on either side of the corresponding gear. This arrangement was chosen to provide support on both sides of the gear, improve shaft alignment, and distribute the gear-generated radial loads between the supports.
 
-A length-to-diameter ratio of 1.0 was selected for the preliminary bearing design. This ratio was chosen as an initial engineering design assumption to provide a balance between load-carrying area and compact bearing dimensions.
-
-Bearing length influences the projected area available to support radial loads. Increasing bearing length decreases the average bearing pressure under a constant radial load, but also increases the space required inside the gearbox housing.
-
-Using a ratio of 1.0 provides a consistent method for selecting preliminary bearing dimensions based on the specified shaft diameters. The dimensions will be checked against the calculated bearing loads and material limitations before being finalized.
-
-Bronze sleeve bearings were identified as a possible material option because bronze is commonly used in plain bearings. Final material selection requires comparison of the calculated bearing pressure, surface velocity, and PV values. 
-
+For the preliminary analysis, each gear was assumed to be centered between its two bearings, resulting in equal reaction forces. Additional radial loads, such as external shaft loads and component weights, were neglected.
