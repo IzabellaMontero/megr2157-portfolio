@@ -56,7 +56,7 @@ The objective of this section was to evaluate the wall thicknesses of the journa
 
 <img src="Screenshot 2026-10-28 at 11.39.47 PM.png" width="500">
 
-<img src="Screenshot 2026-10-28 at 11.40.02 PM.png" width="500">
+<img src="Screenshot 2026-10-29 at 10.42.45 AM.png" width="500"> 
 
 The journal bearing dimensions were selected from the McMaster-Carr catalog rather than choosing arbitrary wall thicknesses. This approach ensured that the proposed bearings corresponded to commercially manufactured components that could be incorporated into the gearbox CAD model.
 
@@ -70,3 +70,37 @@ SAE 841 oil-embedded bronze was selected as the proposed journal bearing materia
 
 The preliminary wall thicknesses of 0.03125 inches for the input journal bearings and
 0.06250 inches for the output journal bearings were retained for the initial gearbox CAD design.
+
+**Component Selection** 
+
+Four SAE 841 oil-embedded bronze sleeve bearings were selected for the preliminary gearbox design, consisting of two bearings for the input shaft and two for the output shaft.
+
+Input Shaft Bearings
+
+- Manufacturer/Supplier: McMaster-Carr
+- Component: Oil-Embedded Sleeve Bearing
+- Part Number: 6391K611
+- Quantity: 2
+- Material: SAE 841 Bearing Bronze
+- Nominal Shaft Diameter: 0.125 in
+- Housing Bore Diameter: 0.1875 in
+- Bearing Length: 0.125 in
+- Nominal Wall Thickness: 0.03125 in
+
+Output Shaft Bearings
+
+- Manufacturer/Supplier: McMaster-Carr
+- Component: Oil-Embedded Flanged Sleeve Bearing
+- Part Number: 6338K411
+- Quantity: 2
+- Material: SAE 841 Bearing Bronze
+- Nominal Shaft Diameter: 0.250 in
+- Housing Bore Diameter: 0.375 in
+- Bearing Length: 0.250 in
+- Nominal Wall Thickness: 0.06250 in
+- Flange Diameter: 0.500 in
+- Flange Thickness: 0.0625 in
+
+These bearing candidates were selected because their nominal shaft diameters match the gearbox specifications and their lengths match the preliminary length-to-diameter design ratio of 1.0.
+
+SAE 841 oil-embedded bronze was selected due to its self-lubricating characteristics and suitability for rotating-shaft applications
