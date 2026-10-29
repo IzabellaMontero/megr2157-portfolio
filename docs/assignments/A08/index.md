@@ -37,3 +37,20 @@ Therefore, the original output shaft diameter was retained without modification.
 Two journal bearings were selected for each shaft, with one bearing positioned on either side of the corresponding gear. This arrangement was chosen to provide support on both sides of the gear, improve shaft alignment, and distribute the gear-generated radial loads between the supports.
 
 For the preliminary analysis, each gear was assumed to be centered between its two bearings, resulting in equal reaction forces. Additional radial loads, such as external shaft loads and component weights, were neglected.
+
+<img src="Screenshot 2026-10-28 at 11.18.19 PM.png" width="500">
+
+<img src="Screenshot 2026-10-28 at 11.18.41 PM.png" width="500">
+
+<img src="Screenshot 2026-10-28 at 11.19.54 PM.png" width="500">
+
+The preliminary analysis determined that each journal bearing supports approximately 1.330 lbf of radial gear loading under the assumed symmetrical arrangement.
+
+The input bearings experience greater projected pressure and surface velocity because of their smaller dimensions and higher rotational speed. Consequently, the input bearings have the greater calculated PV requirement.
+
+These calculations establish the operating requirements for selecting appropriate commercial journal bearings.
+
+**Journal Bearing Wall Thickness Design**
+
+The objective of this section was to evaluate the wall thicknesses of the journal bearings supporting the input and output shafts. The analysis involved using the dimensions of preliminary commercial sleeve-bearing candidates to determine their nominal wall thicknesses and establish the basis for evaluating their structural performance.
+
