@@ -124,3 +124,11 @@ First I downloaded the chosen gears. I had some trouble with this part. The gear
 The input shaft was modeled as a separate parametric SolidWorks part using the dimensions specified in the gearbox assignment. A circular sketch with a diameter of 0.125 inches was created and extruded to a total length of 1.000 inch.
 
 The shaft is designed to transmit rotational power to the 18-tooth input pinion. A steel material was proposed for the shaft due to its strength, availability, and suitability for mechanical power transmission applications.
+
+<img src="Screenshot 2026-10-29 at 11.12.32 PM.png" width="500">
+
+The output shaft was created as a separate parametric SolidWorks part using the dimensions specified in the gearbox assignment. A circular sketch with a diameter of 0.250 inches was extruded to a total length of 1.000 inch.
+
+The shaft is intended to support the larger 48-tooth output gear and transmit the specified output torque of 1.25 in·lbf at 1100 rpm. Steel was selected as a preliminary shaft material because of its mechanical strength and suitability for power transmission.
+
+The output shaft has a larger diameter than the input shaft to accommodate the gearbox design requirements. The proposed connection between the shaft and gear hub is a press fit, with the appropriate tolerances to be evaluated during the detailed assembly process.
