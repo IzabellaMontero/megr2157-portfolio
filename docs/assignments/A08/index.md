@@ -120,3 +120,7 @@ First I downloaded the chosen gears. I had some trouble with this part. The gear
 <img src="Screenshot 2026-10-29 at 11.07.15 PM.png" width="500">
 
 <img src="Screenshot 2026-10-29 at 11.07.35 PM.png" width="500">
+
+The input shaft was modeled as a separate parametric SolidWorks part using the dimensions specified in the gearbox assignment. A circular sketch with a diameter of 0.125 inches was created and extruded to a total length of 1.000 inch.
+
+The shaft is designed to transmit rotational power to the 18-tooth input pinion. A steel material was proposed for the shaft due to its strength, availability, and suitability for mechanical power transmission applications.
