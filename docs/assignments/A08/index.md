@@ -132,3 +132,5 @@ The output shaft was created as a separate parametric SolidWorks part using the 
 The shaft is intended to support the larger 48-tooth output gear and transmit the specified output torque of 1.25 in·lbf at 1100 rpm. Steel was selected as a preliminary shaft material because of its mechanical strength and suitability for power transmission.
 
 The output shaft has a larger diameter than the input shaft to accommodate the gearbox design requirements. The proposed connection between the shaft and gear hub is a press fit, with the appropriate tolerances to be evaluated during the detailed assembly process.
+
+<img src="Screenshot 2026-10-29 at 11.14.18 PM.png" width="500">
