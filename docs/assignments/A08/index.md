@@ -113,4 +113,10 @@ A rounded two-piece gearbox housing was selected as the preliminary design conce
 
 ## CAD Model 
 
-First I downloaded the chosen gears. I had some trouble with this part. 
+First I downloaded the chosen gears. I had some trouble with this part. The gearbox design incorporates two spur gears with a gear ratio of 24:9 to transmit rotational motion and torque between the input and output shafts. The gears were selected from McMaster-Carr, with part number 7880K19 serving as the 18-tooth input pinion and part number 7880K24 serving as the 48-tooth output gear. Both gears have a diametral pitch of 48 and a pressure angle of 20 degrees, ensuring compatibility for proper meshing.
+
+<img src="Screenshot 2026-10-29 at 11.06.40 PM.png" width="500">
+
+<img src="Screenshot 2026-10-29 at 11.07.15 PM.png" width="500">
+
+<img src="Screenshot 2026-10-29 at 11.07.35 PM.png" width="500">
