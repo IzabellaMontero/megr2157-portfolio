@@ -111,3 +111,6 @@ A rounded two-piece gearbox housing was selected as the preliminary design conce
 
 <img src="Screenshot 2026-10-29 at 10.56.31 AM.png" width="500">
 
+## CAD Model 
+
+First I downloaded the chosen gears. I had some trouble with this part. 
