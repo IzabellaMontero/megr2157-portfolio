@@ -160,3 +160,8 @@ During assembly, it became apparent that the bearings and gear hubs occupied a s
 This could create difficulties when connecting the gearbox to external equipment, such as a motor coupling or driven mechanism.
 
 A possible improvement would be to increase the shaft length or revise the bearing placement to provide additional space for mechanical connections, while maintaining appropriate support and alignment.
+
+
+<img src="Screenshot 2026-10-30 at 10.04.27 PM.png" width="500">
+
+During the gearbox assembly process, I noticed that the original 1.000-inch shafts did not provide enough exposed length after installing the gears and journal bearings. To improve the design, I increased both the input and output shaft lengths to 1.500 inches using the Boss-Extrude feature in SolidWorks. I then adjusted the Distance mates to center the shafts within their respective gear hubs, providing a more balanced arrangement and additional space for external connections. The shaft diameters remained unchanged at 0.125 inches for the input and 0.250 inches for the output. This modification improved the preliminary assembly layout while maintaining the required gear center distance of 0.6875 inches.
