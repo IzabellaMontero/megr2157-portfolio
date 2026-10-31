@@ -134,3 +134,35 @@ The shaft is intended to support the larger 48-tooth output gear and transmit th
 The output shaft has a larger diameter than the input shaft to accommodate the gearbox design requirements. The proposed connection between the shaft and gear hub is a press fit, with the appropriate tolerances to be evaluated during the detailed assembly process.
 
 <img src="Screenshot 2026-10-29 at 11.14.18 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.50.22 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.50.46 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.51.03 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.51.45 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.52.23 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.52.47 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.53.05 PM.png" width="500">
+
+<img src="Screenshot 2026-10-30 at 9.53.26 PM.png" width="500">
+
+After assembling the gears, shafts, and journal bearings in SolidWorks, an interference detection analysis was performed to identify potential component overlaps.
+
+The analysis identified five interference regions. The largest detected overlap occurred between the input pinion and input shaft, which may be associated with the intended press-fit connection. However, the exact fit dimensions and tolerances were not verified.
+
+Two smaller interference regions were also detected between the mating gear teeth, each with a reported volume of approximately 7.39 × 10⁻⁶ in³. These overlaps may have resulted from the rotational alignment of the gears or minor geometric differences in the imported CAD models.
+
+Although the calculated gear center distance was maintained at 0.6875 inches, the gear-tooth interference was not fully resolved. This limitation was documented, and the housing design was continued as a preliminary CAD model. Additional gear alignment and clearance verification would be required before manufacturing.
+
+The input and output shafts were designed with nominal lengths of 1.000 inch, following the initial project specifications.
+
+During assembly, it became apparent that the bearings and gear hubs occupied a significant portion of the available shaft length. In particular, the output shaft had limited exposed length beyond the journal bearings.
+
+This could create difficulties when connecting the gearbox to external equipment, such as a motor coupling or driven mechanism.
+
+A possible improvement would be to increase the shaft length or revise the bearing placement to provide additional space for mechanical connections, while maintaining appropriate support and alignment.
