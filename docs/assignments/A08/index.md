@@ -135,12 +135,6 @@ The output shaft has a larger diameter than the input shaft to accommodate the g
 
 <img src="Screenshot 2026-10-29 at 11.14.18 PM.png" width="500">
 
-<img src="Screenshot 2026-10-30 at 9.50.22 PM.png" width="500">
-
-<img src="Screenshot 2026-10-30 at 9.50.46 PM.png" width="500">
-
-<img src="Screenshot 2026-10-30 at 9.51.03 PM.png" width="500">
-
 <img src="Screenshot 2026-10-30 at 9.51.45 PM.png" width="500">
 
 <img src="Screenshot 2026-10-30 at 9.52.23 PM.png" width="500">
