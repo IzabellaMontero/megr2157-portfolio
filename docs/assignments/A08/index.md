@@ -1,6 +1,11 @@
 # A8 – Gears
 
 ## Objective
+The purpose of this project was to design and develop a two-piece spur gearbox using SolidWorks while applying mechanical engineering principles such as gear ratios, torque transmission, shaft design, journal bearing selection, and engineering drawing practices. The gearbox was designed to achieve a gear ratio of 24:9 while delivering an output torque of 1.25 in·lbf at 1100 RPM.
+
+Throughout the project, I selected commercial spur gears and journal bearings from McMaster-Carr, designed the input and output shafts, and developed a rounded gearbox housing with a removable cover. SolidWorks was used to model individual components, create the assembly, and evaluate component alignment and potential interference. Engineering drawings were also developed to communicate important dimensions, tolerances, and manufacturing requirements.
+
+This project provided an opportunity to connect theoretical engineering calculations with practical CAD design while developing a better understanding of mechanical assemblies, design modifications, and the importance of proper component fit and tolerancing.
 
 
 ## Shaft Design 
@@ -185,6 +190,18 @@ The exterior shape was based on the arrangement of the two spur gears and a prel
 A separate removable gearbox cover was modeled to allow access to the internal gears and bearings.
 The cover used a matching rounded outline and included two shaft/bearing openings.
 Four circular mounting ears were added around the cover perimeter. Each mounting ear had a nominal diameter of 0.300 inches.
+
+<img src="Screenshot 2026-10-31 at 8.51.08 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.51.25 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.51.42 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.52.08 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.52.26 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.52.45 PM.png" width="500">
 
 <img src="Screenshot 2026-10-31 at 8.51.08 PM.png" width="500">
 
