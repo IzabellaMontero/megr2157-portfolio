@@ -203,15 +203,38 @@ Four circular mounting ears were added around the cover perimeter. Each mounting
 
 <img src="Screenshot 2026-10-31 at 8.52.45 PM.png" width="500">
 
-<img src="Screenshot 2026-10-31 at 8.51.08 PM.png" width="500">
+## Gearbox SOLIDWORKS Files
 
-<img src="Screenshot 2026-10-31 at 8.51.25 PM.png" width="500">
+### Complete Gearbox Assembly
+[Gearbox Assembly](Gearbox.SLDASM)
 
-<img src="Screenshot 2026-10-31 at 8.51.42 PM.png" width="500">
+### SOLIDWORKS Parts
+[Gearbox Housing](Gearbox_Housing.SLDPRT)
 
-<img src="Screenshot 2026-10-31 at 8.52.08 PM.png" width="500">
+[Gearbox Housing Cover](Gearbox_Housing_Cover.SLDPRT)
 
-<img src="Screenshot 2026-10-31 at 8.52.26 PM.png" width="500">
+[Input Shaft](Input_Shaft.SLDPRT)
 
-<img src="Screenshot 2026-10-31 at 8.52.45 PM.png" width="500">
+[Output Shaft](Output_Shaft.SLDPRT)
+
+[Input Gear - 7880K19](7880K19_Metal%20Gear%20-%2020%20Degree%20Pressure%20Angle.SLDPRT)
+
+[Output Gear - 7880K24](7880K24_Metal%20Gear%20-%2020%20Degree%20Pressure%20Angle.SLDPRT)
+
+[Bronze Flanged Sleeve Bearing](6338K411_Oil-Embedded%20841%20Bronze%20Flanged%20Sleeve%20Bearing.SLDPRT)
+
+[Bronze Flanged Sleeve Bearing (1)](6338K411_Oil-Embedded%20841%20Bronze%20Flanged%20Sleeve%20Bearing%20%281%29.SLDPRT)
+
+### Engineering Drawings
+[Complete Gearbox Drawing](Gearbox.SLDDRW)
+
+[Gearbox Housing Drawing](Gearbox_Housing.SLDDRW)
+
+[Gearbox Housing Cover Drawing](Gearbox_Housing_Cover.SLDDRW)
+
+[Input Shaft Drawing](Input_Shaft.SLDDRW)
+
+[Output Shaft Drawing](Output_Shaft.SLDDRW)
+
+[Bronze Bearing Drawing](6338K411_Oil-Embedded%20841%20Bronze%20Flanged%20Sleeve%20Bearing%20%281%29.SLDDRW)
 
