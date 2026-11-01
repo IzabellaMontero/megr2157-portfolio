@@ -186,3 +186,15 @@ A separate removable gearbox cover was modeled to allow access to the internal g
 The cover used a matching rounded outline and included two shaft/bearing openings.
 Four circular mounting ears were added around the cover perimeter. Each mounting ear had a nominal diameter of 0.300 inches.
 
+<img src="Screenshot 2026-10-31 at 8.51.08 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.51.25 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.51.42 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.52.08 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.52.26 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.52.45 PM.png" width="500">
+
