@@ -185,3 +185,4 @@ The exterior shape was based on the arrangement of the two spur gears and a prel
 A separate removable gearbox cover was modeled to allow access to the internal gears and bearings.
 The cover used a matching rounded outline and included two shaft/bearing openings.
 Four circular mounting ears were added around the cover perimeter. Each mounting ear had a nominal diameter of 0.300 inches.
+
