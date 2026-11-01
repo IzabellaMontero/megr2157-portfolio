@@ -165,3 +165,23 @@ A possible improvement would be to increase the shaft length or revise the beari
 <img src="Screenshot 2026-10-30 at 10.04.27 PM.png" width="500">
 
 During the gearbox assembly process, I noticed that the original 1.000-inch shafts did not provide enough exposed length after installing the gears and journal bearings. To improve the design, I increased both the input and output shaft lengths to 1.500 inches using the Boss-Extrude feature in SolidWorks. I then adjusted the Distance mates to center the shafts within their respective gear hubs, providing a more balanced arrangement and additional space for external connections. The shaft diameters remained unchanged at 0.125 inches for the input and 0.250 inches for the output. This modification improved the preliminary assembly layout while maintaining the required gear center distance of 0.6875 inches.
+
+<img src="Screenshot 2026-10-31 at 8.10.45 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.11.03 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.11.24 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.11.42 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.12.16 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.12.37 PM.png" width="500">
+
+<img src="Screenshot 2026-10-31 at 8.13.02 PM.png" width="500">
+
+A rounded, two-piece gearbox housing was designed using SolidWorks.
+The exterior shape was based on the arrangement of the two spur gears and a preliminary hand-drawn housing concept.
+A separate removable gearbox cover was modeled to allow access to the internal gears and bearings.
+The cover used a matching rounded outline and included two shaft/bearing openings.
+Four circular mounting ears were added around the cover perimeter. Each mounting ear had a nominal diameter of 0.300 inches.
