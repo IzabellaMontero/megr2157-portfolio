@@ -26,6 +26,18 @@ A polyurethane rubber round belt was identified from McMaster-Carr based on the 
 
 The selected candidate has an outer circumference of 20.25 inches, compared with the calculated ideal geometric circumference of approximately 20.21 inches. Under the simplified tensile-stress analysis, the belt achieves a calculated safety factor of 3.21, exceeding the required minimum of 3.
 
+After evaluating the belt length, I investigated the maximum torque that could be transmitted without slipping. Using the limiting tight-side and loose-side tensions of 7.20 lbf and 2.80 lbf and a pulley radius of 1.5 inches, I calculated a theoretical maximum transmitted torque of 6.60 lbf·in.
+
+Rather than designing the system to operate directly at the slipping limit, I selected a preliminary operating torque of 5.28 lbf·in, representing an assumed 20% reduction from the theoretical maximum.
+
+At this operating torque, the calculated tight-side tension was 6.76 lbf, while the loose-side tension was 3.24 lbf. The resulting tension ratio was approximately 2.086, which is below the assumed friction-limit ratio of 2.566.
+
+I then recalculated the belt's tensile stress using the 1/4-inch diameter and operating tight-side tension. The resulting tensile stress was approximately 137.7 psi, producing a calculated factor of safety of 3.42.These results indicate that the proposed belt satisfies the simplified tensile-strength requirement and operates below the calculated slipping threshold under the selected assumptions.
+
+he belt selected for further evaluation is a McMaster-Carr polyurethane rubber round belt from product family 3044K606, with a nominal diameter of 1/4 inch and a proposed unloaded outer circumference of 19 inches.
+
+The design process demonstrated the importance of considering more than the minimum required belt diameter. My initial selection accounted for material strength and geometric circumference, but further analysis showed that installation stretch and stationary tension also influence belt performance. Although the preliminary stress and friction calculations satisfy the selected design criteria, the actual belt tension and no-slip performance remain dependent on the belt's material properties and contact conditions. These quantities would need to be verified through manufacturer data. 
+
 
 ## Analyze
 
