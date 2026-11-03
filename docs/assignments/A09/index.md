@@ -42,6 +42,7 @@ The design process demonstrated the importance of considering more than the mini
 
 ![Screenshot 2](Screenshot%202026-11-03%20at%202.01.49%20PM.png)
 
+![Screenshot](Screenshot%202026-11-03%20at%202.04.37%20PM.png)
 
 ## Analyze
 
