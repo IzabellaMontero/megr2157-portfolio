@@ -16,6 +16,16 @@ A standard belt diameter will be selected based on the calculations, followed by
 
 ![Screenshot](Screenshot%202026-11-02%20at%205.28.11%20PM.png)
 
+![Screenshot 1](Screenshot%202026-11-03%20at%201.12.20%20PM.png)
+
+![Screenshot 2](Screenshot%202026-11-03%20at%201.12.49%20PM.png)
+
+![Screenshot 3](Screenshot%202026-11-03%20at%201.13.22%20PM.png)
+
+A polyurethane rubber round belt was identified from McMaster-Carr based on the calculated minimum belt diameter and geometric requirements. The minimum belt diameter was calculated to be 0.242 inches, so a standard 0.250-inch diameter belt was chosen for evaluation.
+
+The selected candidate has an outer circumference of 20.25 inches, compared with the calculated ideal geometric circumference of approximately 20.21 inches. Under the simplified tensile-stress analysis, the belt achieves a calculated safety factor of 3.21, exceeding the required minimum of 3.
+
 
 ## Analyze
 
