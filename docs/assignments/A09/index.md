@@ -38,6 +38,10 @@ he belt selected for further evaluation is a McMaster-Carr polyurethane rubber r
 
 The design process demonstrated the importance of considering more than the minimum required belt diameter. My initial selection accounted for material strength and geometric circumference, but further analysis showed that installation stretch and stationary tension also influence belt performance. Although the preliminary stress and friction calculations satisfy the selected design criteria, the actual belt tension and no-slip performance remain dependent on the belt's material properties and contact conditions. These quantities would need to be verified through manufacturer data. 
 
+![Screenshot 1](Screenshot%202026-11-03%20at%202.00.38%20PM.png)
+
+![Screenshot 2](Screenshot%202026-11-03%20at%202.01.49%20PM.png)
+
 
 ## Analyze
 
