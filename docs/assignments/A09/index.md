@@ -94,6 +94,8 @@ I also learned how to use torsional stress equations to determine shaft diameter
 
 Finally, designing the supporting frame helped me understand the importance of material selection, structural strength, and maintaining proper shaft alignment. This project demonstrated how engineering calculations guide component selection and how each design decision affects the overall pulley system.
 
+(It took me about 3 hours to complete) 
+
 
 
 
