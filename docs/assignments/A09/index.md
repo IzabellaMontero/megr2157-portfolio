@@ -58,5 +58,10 @@ Using the tight-side and loose-side tensions from Part 1, I calculated a transmi
 
 I selected a standard 1/4-inch shaft to provide additional strength. After checking the torsional stress, I calculated a safety factor of 20.80, exceeding the required minimum of 3. This confirmed that the selected shaft meets the preliminary torsional strength requirements, although bending stresses still need to be evaluated.
 
+![Screenshot 1](Screenshot%202026-11-04%20at%2011.41.08%20PM.png)
+
+![Screenshot 2](Screenshot%202026-11-04%20at%2011.41.30%20PM.png)
+
+![Screenshot 3](Screenshot%202026-11-04%20at%2011.41.48%20PM.png)
 
 
