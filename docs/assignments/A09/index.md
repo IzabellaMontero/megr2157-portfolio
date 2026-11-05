@@ -74,4 +74,18 @@ Using these results, I selected oil-impregnated sintered bronze as a preliminary
 
 Overall, this section demonstrated how bearing loads, shaft speed, and material properties influence bearing selection. The final bearing dimensions and compatibility with the required handbook specifications still need to be verified.
 
+![Screenshot 1](Screenshot%202026-11-04%20at%2011.53.39%20PM.png)
+
+![Screenshot 2](Screenshot%202026-11-04%20at%2011.53.55%20PM.png)
+
+## Frame Design Analysis 
+
+For this section, I developed a preliminary support frame using 6061-T6 aluminum with dimensions of 7 × 1.5 × 0.25 inches. The frame was designed to maintain the required 5-inch spacing between the pulley shafts while supporting the belt forces.
+
+Using a simplified 10 lbf compressive load, I calculated an average stress of 26.67 psi and a direct-stress safety factor of approximately 1312. I also estimated the frame's elastic buckling load to investigate its resistance to instability.
+
+The results indicate that the proposed frame has substantial strength under the simplified loading conditions.
+
+
+
 
