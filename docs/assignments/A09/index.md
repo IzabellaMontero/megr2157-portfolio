@@ -50,11 +50,13 @@ The design process demonstrated the importance of considering more than the mini
 
 ![Screenshot](Screenshot%202026-11-03%20at%202.04.37%20PM.png)
 
-## Analyze
+## Shaft Design Results 
+
+In this part of the project, I calculated the minimum shaft diameter required to safely transmit torque through the pulley system using 1060 hardened steel. I began by identifying the known and unknown values and creating a free-body diagram showing the belt forces, torque, and bearing reactions.
+
+Using the tight-side and loose-side tensions from Part 1, I calculated a transmitted torque of 6.60 lbf·in. I then used the material's yield strength and the required safety factor of 3 to determine the allowable shear stress. After rearranging the torsional stress equation symbolically, I calculated a minimum shaft diameter of 0.1311 inches.
+
+I selected a standard 1/4-inch shaft to provide additional strength. After checking the torsional stress, I calculated a safety factor of 20.80, exceeding the required minimum of 3. This confirmed that the selected shaft meets the preliminary torsional strength requirements, although bending stresses still need to be evaluated.
 
 
-## Decide
-
-
-## Communicate
 
