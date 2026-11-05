@@ -64,4 +64,14 @@ I selected a standard 1/4-inch shaft to provide additional strength. After check
 
 ![Screenshot 3](Screenshot%202026-11-04%20at%2011.41.48%20PM.png)
 
+## Journal Bearing Design 
+
+In this section, I designed and evaluated journal bearings to support the rotating shafts of the pulley system. I began by identifying the known and unknown values and creating a free-body diagram to determine the forces acting on each bearing. Based on the pulley arrangement, I calculated a load of 5 lbf per bearing.
+
+Next, I modeled the equations symbolically and calculated the bearing pressure, surface velocity, and PV rating. The results were 40 psi, 98.17 ft/min, and 3,927 psi·ft/min, respectively.
+
+Using these results, I selected oil-impregnated sintered bronze as a preliminary bearing material because of its lubrication properties and published operating limits. The calculated values were below the referenced manufacturer limits, indicating that the material is suitable for further consideration.
+
+Overall, this section demonstrated how bearing loads, shaft speed, and material properties influence bearing selection. The final bearing dimensions and compatibility with the required handbook specifications still need to be verified.
+
 
