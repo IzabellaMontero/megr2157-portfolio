@@ -86,6 +86,14 @@ Using a simplified 10 lbf compressive load, I calculated an average stress of 26
 
 The results indicate that the proposed frame has substantial strength under the simplified loading conditions.
 
+![Screenshot](Screenshot%202026-11-05%20at%2012.04.13%20AM.png)
+
+Throughout this project, I learned how different mechanical components work together to transfer rotational motion safely. One important concept was understanding how friction creates different tensions on the tight and loose sides of a belt, which directly affects the torque transmitted to the shafts.
+
+I also learned how to use torsional stress equations to determine shaft diameter and how bearing pressure, surface velocity, and PV ratings influence journal bearing selection. During the belt selection process, I encountered challenges determining the correct belt circumference and accounting for installation stretch.
+
+Finally, designing the supporting frame helped me understand the importance of material selection, structural strength, and maintaining proper shaft alignment. This project demonstrated how engineering calculations guide component selection and how each design decision affects the overall pulley system.
+
 
 
 
