@@ -6,7 +6,7 @@ The objective of this project is to design and analyze a belt-driven pulley syst
 
 Engineering calculations will be performed to evaluate belt tension, normal stress, torsional stress, bearing pressure, and overall system safety. The design must satisfy a minimum factor of safety of 3 while meeting the specified operating requirements. Components will be selected using engineering calculations and manufacturer specifications, and the final assembly will be modeled in SolidWorks.
 
-(Insert image from A9 instructions) 
+ 
 
 ## Belt Driven Pulley System Design 
 
